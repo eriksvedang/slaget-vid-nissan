@@ -14,6 +14,7 @@ h1 {
     line-height: 1.2em;
     text-align: center;
     font-size: 2em;
+    margin-bottom: 10px;
 }
 
 h2 {
@@ -32,6 +33,12 @@ h2 {
 
 .banner {
     width: 100%;
+}
+
+.subtitle {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
 }
 
 ul {
