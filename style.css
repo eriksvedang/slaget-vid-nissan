@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    background: #abc;
+    background-image: url("img/Fog.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Ribeye", serif;
+    line-height: 1.2em;
+    text-align: center;
+    font-size: 2em;
+}
+
+h2 {
+    margin: 2em 0em 0em 0em;
+    font-size: 1.1em;
+    line-height: 1.2em;
+}
+
+.content {
+    margin: 1em;
+    background: #fffc;
+    padding: 0em 2em 2em 2em;
+    border-radius: 4px;
+}
+
+.banner {
+    width: 100%;
+}
+
+ul {
+    line-height: 1.6em;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #555;
+}
+
+p {
+    line-height: 1.4em;
+}
