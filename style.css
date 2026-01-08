@@ -3,7 +3,7 @@ body {
     font-size: 1.3em;
     line-height: 1.4em;
     background: #abc;
-    background-image: url("img/Fog.jpeg");
+    background-image: url("img/jumping_viking_square.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -24,9 +24,13 @@ h2 {
     line-height: 1.2em;
 }
 
+.intro {
+    font-style: italic;
+}
+
 .content {
     margin: 1em;
-    background: #fffa;
+    background: #fffd;
     padding: 0.1em 2em 2em 2em;
     border-radius: 5px;
 }
@@ -51,4 +55,8 @@ a {
 
 a:hover {
     color: #555;
+}
+
+img {
+    margin-top: 1em;
 }
