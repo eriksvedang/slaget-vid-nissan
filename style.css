@@ -1,5 +1,5 @@
 body {
-    font-family: 'Georgia', serif;
+    font-family: 'IM Fell English', 'Georgia', serif;
     font-size: 1.3em;
     line-height: 1.4em;
     background: #abc;
@@ -11,17 +11,17 @@ body {
 }
 
 h1 {
-    font-family: "Germania One", serif;
+    font-family: 'Uncial Antiqua', 'Germania One', serif;
     line-height: 1.2em;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 1.4em;
     margin-bottom: 10px;
 }
 
 h2 {
-    font-family: "Bungee Shade", sans-serif;
+    font-family: "Eagle Lake", sans-serif;
     margin: 2em 0em 0em 0em;
-    font-size: 1.1em;
+    font-size: 1.0em;
     line-height: 1.2em;
 }
 
@@ -66,4 +66,9 @@ a:hover {
 
 img {
     margin-top: 1em;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 0.6em;
 }
