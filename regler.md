@@ -32,9 +32,9 @@ avståndsstrid så sker denna från **skepp till skepp**.
 Spelet innehåller 20 st runbrickor i följande konfiguration:
 
 Framsidor:
-11 x "th" (träff)
-6 x "o" (Oden)
-3 x "d" (dublering)
+* 11 x "th" (träff)
+* 6 x "o" (Oden)
+* 3 x "d" (dubblering)
 
 På baksidan är de blanka.
 
@@ -48,7 +48,7 @@ Många kort har en effekt som lägger till ett antal runor till
 kastet. De räknas som att de ingår i det initiala kastet.
 
 ### Kort
-Varje lag (Norrmän / Danskar) har en egen speciell kortlek på XX kort
+Varje lag (Norrmän / Daner) har en egen speciell kortlek på X kort
 var. Korten är färgkodade med en ikon i det övre vänstra hörnet, varje
 ikon är knuten till en av ledarna i spelet.
 
@@ -66,14 +66,14 @@ följande begränsningar:
 - Kungarna måste starta på de största skeppen.
 
 Exempel:
-Daneran har 4 skepp och 7 kämpar på varje, total 28 st.
-Norrmännen har 2 skepp och 10 på varje, totalt 20 st.
+- Danerna har 4 skepp och 7 kämpar på varje, total 28 st.
+- Norrmännen har 2 skepp och 10 på varje, totalt 20 st.
 
 Beroende på hur många skepp som används så ska spelarna ha olika antal
 kort på handen:
 
-1-4 norska skepp: 3 kort var
-5+  norska skepp: 4 kort var
+* 1-4 norska skepp: 3 kort var
+* 5+  norska skepp: 4 kort var
 
 ## Förberedelser
 1. Norrmännen placerar sina skepp innerst i viken och placerar sina
@@ -127,11 +127,12 @@ Den aktive spelaren väljer först ut och markerar tydligt vilka skepp
 som hen aktiverar den här turen. Spelaren utför sedan följande
 handlingar för ett skepp i taget:
 
- * a) Förflyttning av skepp
- * b) Sammanbindning
- * c) Avståndsstrid
- * d) Förflyttning av kämpar
- * e) Närstrid
+<pre>
+ a) Förflyttning av skepp
+ b) Sammanbindning
+ c) Avståndsstrid
+ d) Förflyttning/anfall med kämpar
+</pre>
 
 Grundprincipen är att varje kämpe ombord på ett aktiverat skepp kan
 utföra en handling, t ex ro, skjuta pilbåge, eller äntra ett
@@ -140,10 +141,10 @@ fiendeskepp.
 När alla aktiverade skepp har utfört sina handlingar är steg 2 slut
 och spelaren går till steg 3 för att fylla på sin hand med kort.
 
-#### 2a. Förflyttning av skepp
+#### a) Förflyttning av skepp
 Ett skepp kan flyttas om det:
- 1) Har en styrman (kämpe placerad vid styråran)
- 2) Inte innehåller fiendekämpar
+ 1. Har en styrman (kämpe placerad vid styråran)
+ 2. Inte innehåller fiendekämpar
 
  Spelaren väljer hur många av kämparna ombord som ska spendera sin
  handling på att ro. I första hand måste styrmannen väljas, med andra
@@ -161,7 +162,7 @@ Ett skepp kan flyttas om det:
  någon kämpe ombord. Denna kämpe kan inte delta i någon annan handling
  under resten av aktiveringen.
 
-#### 2b. Sammanbindning
+#### b) Sammanbindning
 Istället för att slåss kan en kämpe knyta ihop skeppet han befinner
 sig på med ett annat skepp.
 
@@ -179,17 +180,18 @@ handling på att hugga loss skeppet han befinner sig på.
 Flera kort blir också mer effektiva i de fall då aktiverade skepp är
 sammanbundna.
 
-#### 2c. Avståndsstrid
+#### c) Avståndsstrid
 Kämpar som inte deltagit i rodd eller sammanbindning av skepp kan
-delta i avståndsstrid (detta är då deras aktivering för turen, de kan
-ej flytta eller slåss i närstrid under samma aktivering).
+attackera motståndaren genom avståndsstrid (detta är då deras
+aktivering för turen, de kan ej flytta eller anfalla i närstrid under
+samma aktivering).
 
 Följande begränsningar gäller för avståndsstrid:
-- Bågskyttar når 40 cm (skepp till skepp).
-- Stenkastning når 10 cm (skepp till skepp).
+- Bågskyttar når 40 cm (mät från skepp till skepp).
+- Stenkastning når 10 cm (mät från skepp till skepp).
 - Alla kämpar som deltar i avståndsstrid under en aktivering måste
   anfalla samma skepp. Det innebär att om ett skepp som befinner sig
-  mer än 10 cm bort ska attackeras så kan endast bågskyttar delta i
+  mer än 10 cm bort ska attackeras, så kan endast bågskyttar delta i
   striden.
 - Det går inte att använda avståndsstrid mot fiendekämpar som befinner
   sig på samma skepp.
@@ -204,7 +206,7 @@ runa ('o') har ingen effekt i avståndsstrid.
 Den attackerade spelaren måste ta bort en fallen kämpe per träff-runa,
 hen kan välja fritt bland alla kämpar i det attackerade skeppet.
 
-#### 2d. Förflyttning och anfall med kämpar
+#### d) Förflyttning och anfall med kämpar
 Det är aldrig nödvändigt att mäta distans när en kämpe rör sig ombord
 på skepp, begräsningen är istället att en förflyttning aldrig kan
 inbegripa mer än två skepp -- kämpen kan alltså göra max ett "hopp"
@@ -283,7 +285,7 @@ slut och går till poängräkning (se nedan).
 
 ## Spelets slut
 Spelet tar slut
- 1. Om någon av kungarna dör (den spelaren förlorar då omedelbart)
+ 1. Om någon av kungarna dör (spelaren förlorar då omedelbart)
  2. En av spelarna inte kan dra kort från sin lek för att den är tom
  3. När båda spelarna har spelat sju turer var
 
