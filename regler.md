@@ -39,12 +39,14 @@ vapen som var mycket vanliga under vikingatiden:
 
 Kämpar med svärd, yxor och spjut bär sköldar. Alla typer av kämpar
 (även ledare och bågskyttar) kan ta rollen som styrman genom att stå
-längst bak i ett skepp, precis bredvid styråran.
+längst bak i ett skepp, precis bredvid styråran. De kämpar som inte
+har pilbåge kan delta i avståndsstrid genom att kasta sten.
 
 På varje sida finns även tre namngivna ledare; en kung och två
-hjältar. Ledare är de som ger order i striden och är på många sätt
-nyckeln till att kunna vinna slaget. De är även utomordentliga krigare
-och räknas därför dubbelt när de attackerar.
+hjältar. Ledare är de som ger order i striden och är därför mycket
+viktiga för att kunna manövrera skeppen och kämparna i spelet. De är
+även utomordentliga krigare och räknas därför dubbelt när de
+attackerar.
 
 Norrmän:
 - Harald Hårdråde (pilbåge)
