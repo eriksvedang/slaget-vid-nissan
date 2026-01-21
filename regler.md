@@ -58,11 +58,11 @@ Daner:
 
 ### Distans
 Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
-aktivering, förflyttning och avståndsstrid så sker detta från
-**skepp till skepp**. Det räcker alltså att de yttersta ändarna av två
-skepp är inom 10 cm från varandra för att de ska kunna attackera
-varandra med stenkastning, det är aldrig nödvändigt att mäta från en
-kämpe till en annan.
+aktivering, förflyttning och avståndsstrid så sker detta från **skepp
+till skepp**. Det räcker alltså till exempel att de yttersta ändarna
+av två skepp är inom 10 cm från varandra för att de ska kunna
+attackera varandra med stenkastning, det är aldrig nödvändigt att mäta
+från en kämpe till en annan.
 
 ### Runor
 Spelet innehåller 20 st runbrickor i följande konfiguration:
