@@ -58,6 +58,10 @@ Daner:
 - Finn Arnesson (spjut)
 - Skjalm Tokesson (yxa)
 
+Under spelets gång kommer många av kämparna att stupa. De ställs då
+bredvid spelplanen och hålls åtskillda så att det är enkelt att se hur
+många kämpar som varje sida har förlorat.
+
 ### Distans
 Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
 aktivering, förflyttning och avståndsstrid så sker detta från **skepp
@@ -143,24 +147,27 @@ Spelaren kan spela vilket kort som helst från handen, även om de har
 begränsad eller ingen effekt. Läs kortets titel och regeltext högt för
 motståndaren.
 
-Om alla kort på hand anses värdelösa så är det tillåtet att istället
-slänga sin hand och sedan gå direkt till steg 3. I detta fall får inga
-skepp aktiveras och spelaren passar effektivt sin tur för att försöka
-förbättra korten på hand.
+Om spelaren anser att ett eller flera kort på hand är värdelösa så är
+det tillåtet att istället slänga hela eller delar av sin hand och
+sedan gå direkt till steg 3. I detta fall får inga skepp aktiveras och
+spelaren passar effektivt sin tur för att försöka förbättra korten på
+hand.
 
 ### 2. Aktivering
-Varje kort hör till en av ledarna i spelarens lag, eller så är det
-neutralt.
+Varje kort hör till en av ledarna i spelarens lag (färgglad och
+mönstrad ikon), eller så är det neutralt (svar ikon).
 
-Kort som är knutna till en ledare (har en ikon i hörnet) kan
-aktivera skeppet där den ledaren befinner sig, samt skepp som är inom
-hörhåll (20 cm, räknat från skepp till skepp).
+Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
+ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
+de vänligt sinnade skepp som är inom hörhåll (20 cm, räknat från skepp
+till skepp).
 
-Neutrala kort kan aktivera alla skepp, oavsett var de befinner sig.
+Neutrala kort (med svart ikon) kan aktivera alla skepp, oavsett var de
+befinner sig.
 
 Ett kort kan aktivera upp till så många skepp som siffran under ikonen
 i hörnet visar. Om kortet istället har en prick så kan kortet endast
-aktivera det skepp där ledaren befinner sig.
+aktivera exakt det skepp där ledaren befinner sig.
 
 Exempel: Ett kort med Hårdrådes ikon och en 2:a kan aktivera Hårdrådes
 skepp och ett till skepp som är inom hörhåll. Alternativt skulle
@@ -184,6 +191,11 @@ fiendeskepp.
 
 När alla aktiverade skepp har utfört sina handlingar är steg 2 slut
 och spelaren går till steg 3 för att fylla på sin hand med kort.
+
+#### Obrukbara kort
+Om en ledare stupar i strid så kan dennes kort inte användas utan
+förblir i handen tills dess att spelaren spenderar en tur på att
+slänga ett eller flera kort och passa sin tur (se steg 1).
 
 #### a) Förflyttning av skepp
 Ett skepp kan flyttas om det:
