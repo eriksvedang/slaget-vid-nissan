@@ -2,31 +2,53 @@
 layout: main
 ---
 
-# Slaget vid Nissan
+# SLAGET VID NISSAN - REGELBOK
+
+## Intro
+Slaget vid Nissan är ett brädspel som försöker återspegla en historisk
+händelse &mdash; ett vikingaslag som utspelade sig en sommarnatt i
+augusti, år 1062. Striden stod mellan 300 danska skepp och 150 norska,
+precis utanför där staden Halmstad ligger idag. I verkligheten vann
+norrmännen och jagade danskarna på flykt, men vad händer när du tar
+kommandot istället?
 
 ## Grundläggande koncept
 
 ### Skepp
-Det finns tre olika storlekar på skepp:
+Det finns tre olika storlekar på skepp i spelet:
 - Kungaskepp (plats för 15 kämpar)
 - Norska skepp (plats för 10 kämpar)
 - Danska skepp (plats för 7 kämpar)
 
+Vikingaskeppen var otroligt bra och snabba seglare, men vid strid så
+tog man ner masterna och rodde istället. Så är det även i det här
+spelet.
+
+Ett skepp kontrolleras av den spelare som har en kämpe vid styråran
+(längst bak). Om fiender bordar skeppet kommer det inte att kunna
+förflytta sig förrän anfallarna jagats på flykten eller dödats.
+
 ### Kämpar
-Figurerna i spelet representerar olika sorters soldater:
+Figurerna i spelet representerar olika sorters soldater som alla bär
+vanliga vapen under vikingatiden:
+
 - Svärdsmän ("svärd")
 - Yxmän ("yxor")
+- Spjutmän ("spjut")
 - Bågskyttar ("bågar")
 - Ledare ("kungar" och "hjältar")
 
-Både svärd och yxor bär sköldar.  Alla typer av kämpar kan ta rollen
-som rorsman genom att stå längst bak i ett skepp, precis bredvid
-styråran.
+Både svärd, yxor och spjut bär sköldar.  Alla typer av kämpar (även
+ledare) kan ta rollen som styrman genom att stå längst bak i ett
+skepp, precis bredvid styråran.
 
 ### Distans
-Mätning sker i centimeter (cm).
-Vid all mätning av distans vid aktivering, förflyttning och
-avståndsstrid så sker denna från **skepp till skepp**.
+Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
+aktivering, förflyttning och avståndsstrid så sker detta från
+**skepp till skepp**. Det räcker alltså att de yttersta ändarna av två
+skepp är inom 10 cm från varandra för att de ska kunna attackera
+varandra med stenkastning, det är aldrig nödvändigt att mäta från en
+kämpe till en annan.
 
 ### Runor
 Spelet innehåller 20 st runbrickor i följande konfiguration:
@@ -36,23 +58,29 @@ Framsidor:
 * 6 x "o" (Oden)
 * 3 x "d" (dubblering)
 
-På baksidan är de blanka.
+På baksidan är alla runbrickor blanka, vilket representerar en miss.
 
-När runor ska kastas så dras korrekt antal från påsen och de kastas
-från minst 10 cm höjd ner på bordet. De runor som nu visar ett "d"
-vänds ned, och för varje sådan runa dras och kastas ytterligare två
-runor från påsen. När inga fler "d":n visas så är kastet avklarat och
-resultatet kan tydas. Endast uppåtvända runor räknas.
+När runor ska kastas så dras ett antal från påsen och de kastas uppåt
+en bit, så att de faller okontrollerat ner på bordet. De runor som
+efter kastet visar ett "d" vänds nedåt, och för varje sådan runa dras
+och kastas ytterligare två runor från påsen. När inga fler "d":n visas
+så är kastet avklarat och resultatet kan tydas.
 
-Många kort har en effekt som lägger till ett antal runor till
-kastet. De räknas som att de ingår i det initiala kastet.
+Flera kort har en effekt som lägger till ett antal runor till
+kastet. De räknas som att de ingår i det initiala kastet och deras
+resultat kan ej ändras.
 
 ### Kort
-Varje lag (Norrmän / Daner) har en egen speciell kortlek på X kort
-var. Korten är färgkodade med en ikon i det övre vänstra hörnet, varje
-ikon är knuten till en av ledarna i spelet.
+Varje lag (Norrmän / Daner) har en egen kortlek på X kort var. Korten
+är färgkodade med en ikon i det övre vänstra hörnet. Varje ikon är
+knuten till en av ledarna i spelet, eller till hela laget.
 
-### Asymetri
+Varje spelare drar och spelar kort från sin personliga lek. De slängs
+i en slänghög bredvid draghögen. Både drag- och slänghög ska hållas
+utanför eller i den yttersta kanten av spelbrädet, så att de inte
+förhindrar skeppens rörelse.
+
+### Asymmetri
 Spelet kan spelas med varierande mängd skepp och kämpar, dock med
 följande begränsningar:
 
@@ -200,11 +228,18 @@ Följande begränsningar gäller för avståndsstrid:
   heller, de är för upptagna med närstriden.
 
 När den aktiva spelaren valt vilka kämpar som deltar i avståndsstriden
-så kastas en runa per sådan kämpe. Runan 'th' räknas som träff, Odens
-runa ('o') har ingen effekt i avståndsstrid.
+så kastas en runa per sådan kämpe (pilbågsskytte och stenkastning är
+lika effektiva i detta avseende). Om en ledare deltar i avståndsstrid
+räknas den dubbelt och bidrar alltså med två runor till kastet.
+
+Runan 'th' räknas som träff, Odens runa ('o') har ingen effekt i
+avståndsstrid.
 
 Den attackerade spelaren måste ta bort en fallen kämpe per träff-runa,
-hen kan välja fritt bland alla kämpar i det attackerade skeppet.
+hen kan välja fritt bland alla kämpar i det attackerade skeppet. Om
+det träffade skeppet är sammanbundet med andra skepp så är det även
+tillåtet att ta skada genom att låta kämpar på dessa skepp falla
+istället.
 
 #### d) Förflyttning och anfall med kämpar
 Det är aldrig nödvändigt att mäta distans när en kämpe rör sig ombord
@@ -235,13 +270,17 @@ En förflyttning som slutar på en plats som där fiendekämpar står
 räknas som ett *anfall* och leder till närstrid. I detta fall så
 flyttas inte kämparna förrän **efter** närstriden har utförts.
 
-För varje kämpe som ingår i gruppen kastar den anfallande spelaren en
-runa. Runan 'th' räknas som träff (kan stoppas av *sköldmur*) medan
-runan 'o' / Oden ger en skada på både anfallaren och försvararen
-(denna skada går ej att undvika förutom via vissa kort). När kämpar
-dör så måste spelarna i första hand ta bort de som står längst fram,
-närmast fienden som de slåss emot. Vid oklarheter så är det
-spelaren som tar skadan som bestämmer exakt vilken kämpe som faller.
+För varje kämpe med svärd, yxa eller spjut som ingår i gruppen kastar
+den anfallande spelaren en runa. Bågskyttar räknas som 1/2 runa
+(avrundat nedåt) för detta ändamål, tre bågskyttar ger alltså endast
+en runa att kasta. Ledare bidrar med två runor var.
+
+Runan 'th' räknas som träff (kan stoppas av *sköldmur*) medan runan
+'o' / Oden ger en skada på både anfallaren och försvararen (denna
+skada går ej att undvika förutom via vissa kort). När kämpar dör så
+måste spelarna i första hand ta bort de som står längst fram, närmast
+fienden som de slåss emot. Vid oklarheter så är det spelaren som tar
+skadan som bestämmer exakt vilken kämpe som faller.
 
 Efter att skada har delats ut, om försvararen förlorade kämpar, så
 **måste** anfallaren flytta in sina trupper åtminstone så mycket att
