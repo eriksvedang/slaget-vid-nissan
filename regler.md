@@ -29,7 +29,7 @@ Vid all mätning av distans vid aktivering, förflyttning och
 avståndsstrid så sker denna från **skepp till skepp**.
 
 ### Runor
-Spelet kommer med 20 st run-brickor i följande konfiguration:
+Spelet innehåller 20 st runbrickor i följande konfiguration:
 
 Framsidor:
 11 x "th" (träff)
@@ -127,11 +127,11 @@ Den aktive spelaren väljer först ut och markerar tydligt vilka skepp
 som hen aktiverar den här turen. Spelaren utför sedan följande
 handlingar för ett skepp i taget:
 
- a) Förflyttning av skepp
- b) Sammanbindning
- c) Avståndsstrid
- d) Förflyttning av kämpar
- e) Närstrid
+ * a) Förflyttning av skepp
+ * b) Sammanbindning
+ * c) Avståndsstrid
+ * d) Förflyttning av kämpar
+ * e) Närstrid
 
 Grundprincipen är att varje kämpe ombord på ett aktiverat skepp kan
 utföra en handling, t ex ro, skjuta pilbåge, eller äntra ett
@@ -283,9 +283,9 @@ slut och går till poängräkning (se nedan).
 
 ## Spelets slut
 Spelet tar slut
- 1) Om någon av kungarna dör (den spelaren förlorar då omedelbart)
- 2) En av spelarna inte kan dra kort från sin lek för att den är tom
- 3) När båda spelarna har spelat sju turer var
+ 1. Om någon av kungarna dör (den spelaren förlorar då omedelbart)
+ 2. En av spelarna inte kan dra kort från sin lek för att den är tom
+ 3. När båda spelarna har spelat sju turer var
 
 I fall 2 och 3 går spelet vidare till poängräkning:
 
