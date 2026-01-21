@@ -26,6 +26,20 @@ h2 {
     line-height: 1.2em;
 }
 
+h3 {
+    font-family: "Eagle Lake", sans-serif;
+    margin: 2em 0em 0em 0em;
+    font-size: 0.8em;
+    line-height: 1.2em;
+}
+
+h4 {
+    font-family: "Eagle Lake", sans-serif;
+    margin: 2em 0em 0em 0em;
+    font-size: 0.6em;
+    line-height: 1.2em;
+}
+
 .intro {
     font-style: italic;
 }
