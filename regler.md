@@ -32,14 +32,14 @@ förflytta sig förrän anfallarna jagats på flykten eller dödats.
 Figurerna i spelet representerar olika sorters soldater som alla bär
 vapen som var mycket vanliga under vikingatiden:
 
-- Svärdsmän ("svärd")
-- Yxmän ("yxor")
-- Spjutmän ("spjut")
-- Bågskyttar ("pilbåge")
+- Svärdsmän (svärd)
+- Yxmän (yxa)
+- Spjutmän (spjut)
+- Bågskyttar (pilbåge)
 
-Både svärd, yxor och spjut bär sköldar.  Alla typer av kämpar (även
-ledare) kan ta rollen som styrman genom att stå längst bak i ett
-skepp, precis bredvid styråran.
+Kämpar med svärd, yxor och spjut bär sköldar. Alla typer av kämpar
+(även ledare och bågskyttar) kan ta rollen som styrman genom att stå
+längst bak i ett skepp, precis bredvid styråran.
 
 På varje sida finns även tre namngivna ledare; en kung och två
 hjältar. Ledare är de som ger order i striden och är på många sätt
