@@ -30,17 +30,31 @@ förflytta sig förrän anfallarna jagats på flykten eller dödats.
 
 ### Kämpar
 Figurerna i spelet representerar olika sorters soldater som alla bär
-vanliga vapen under vikingatiden:
+vapen som var mycket vanliga under vikingatiden:
 
 - Svärdsmän ("svärd")
 - Yxmän ("yxor")
 - Spjutmän ("spjut")
-- Bågskyttar ("bågar")
-- Ledare ("kungar" och "hjältar")
+- Bågskyttar ("pilbåge")
 
 Både svärd, yxor och spjut bär sköldar.  Alla typer av kämpar (även
 ledare) kan ta rollen som styrman genom att stå längst bak i ett
 skepp, precis bredvid styråran.
+
+På varje sida finns även tre namngivna ledare; en kung och två
+hjältar. Ledare är de som ger order i striden och är på många sätt
+nyckeln till att kunna vinna slaget. De är även utomordentliga krigare
+och räknas därför dubbelt när de attackerar.
+
+Norrmän:
+- Harald Hårdråde (pilbåge)
+- Håkon Jarl (yxa)
+- Eystein Orre (svärd)
+
+Daner:
+- Sven Estridsson (svärd)
+- Finn Arnesson (spjut)
+- Skjalm Tokesson (yxa)
 
 ### Distans
 Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
