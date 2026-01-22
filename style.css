@@ -67,6 +67,12 @@ h4 {
     font-size: 0.8em;
 }
 
+.byline {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
 ul {
     line-height: 1.6em;
 }
