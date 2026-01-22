@@ -14,6 +14,11 @@ kommandot istället?
 
 ## Grundläggande koncept
 
+### Spelplan
+Spelet spelas på en modell över en del av Laholmsbukten, ungefär från
+Nissans mynning till nuvarande Örnäsudden (Halmstad). Spelplanen är
+150 x 220 cm stor.
+
 ### Skepp
 Det finns tre olika storlekar på skepp i spelet:
 - Kungaskepp (plats för 15 kämpar)
