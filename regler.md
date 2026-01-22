@@ -155,7 +155,7 @@ hand.
 
 ### 2. Aktivering
 Varje kort hör till en av ledarna i spelarens lag (färgglad och
-mönstrad ikon), eller så är det neutralt (svar ikon).
+mönstrad ikon), eller så är det neutralt (svart ikon).
 
 Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
 ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
@@ -251,7 +251,7 @@ Följande begränsningar gäller för avståndsstrid:
   striden.
 - Det går inte att använda avståndsstrid mot fiendekämpar som befinner
   sig på samma skepp.
-- Om det befinners sig fiendekämpar ombord på det aktiverade skeppet
+- Om det befinner sig fiendekämpar ombord på det aktiverade skeppet
   kan dina kämpar ombord inte utföra avståndsstrid mot andra skepp
   heller, de är för upptagna med närstriden.
 
@@ -271,7 +271,7 @@ istället.
 
 #### d) Förflyttning och anfall med kämpar
 Det är aldrig nödvändigt att mäta distans när en kämpe rör sig ombord
-på skepp, begräsningen är istället att en förflyttning aldrig kan
+på skepp, begränsningen är istället att en förflyttning aldrig kan
 inbegripa mer än två skepp -- kämpen kan alltså göra max ett "hopp"
 mellan två skepp. Det är endast möjligt att flytta sig ("hoppa")
 mellan två skepp om de rör vid varandra, och då endast vid denna
