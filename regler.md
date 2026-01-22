@@ -140,7 +140,7 @@ En spelartur består av följande handlingar:
 1. Spela ett kort från handen
 2. Aktivera ett eller flera skepp (beroende på spelat kort), plus de
    kämpar som befinner sig ombord.
-3. Dra kort så att spelaren återigen har tre kort på handen.
+3. Dra kort så att spelaren återigen har fullt antal kort på handen.
 
 ### 1. Spela kort
 Spelaren kan spela vilket kort som helst från handen, även om de har
