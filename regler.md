@@ -85,16 +85,16 @@ från en kämpe till en annan.
 Spelet innehåller 20 st runbrickor i följande konfiguration:
 
 Framsidor:
-* 11 x "th" (träff)
-* 6 x "o" (Oden)
-* 3 x "d" (dubblering)
+* 11 st ᚦ (träff)
+*  6 st ᛟ (Oden)
+*  3 st ᛞ (dubblering)
 
 På baksidan är alla runbrickor blanka, vilket representerar en miss.
 
 När runor ska kastas så dras ett antal från påsen och de kastas uppåt
 en bit, så att de faller okontrollerat ner på bordet. De runor som
-efter kastet visar ett "d" vänds nedåt, och för varje sådan runa dras
-och kastas ytterligare två runor från påsen. När inga fler "d":n visas
+efter kastet visar ᛞ läggs bort, och för varje sådan runa dras
+och kastas ytterligare två runor från påsen. När inga fler ᛞ visas
 så är kastet avklarat och resultatet kan tydas.
 
 Flera kort har en effekt som lägger till ett antal runor till
@@ -284,11 +284,11 @@ så kastas en runa per sådan kämpe (pilbågsskytte och stenkastning är
 lika effektiva i detta avseende). Om en ledare deltar i avståndsstrid
 räknas den dubbelt och bidrar alltså med två runor till kastet.
 
-Runan 'th' räknas som träff, Odens runa ('o') har ingen effekt i
+Runan ᚦ räknas som träff, Odens runa ('ᛟ') har ingen effekt i
 avståndsstrid.
 
 Om det attackerade skeppet har en *sköldmur* (minst hälften av
-kämparna bär sköld) så ignoreras den första 'th'-runan.
+kämparna bär sköld) så ignoreras den första 'ᚦ'-runan.
 
 Den attackerade spelaren måste ta bort en fallen kämpe per träff-runa,
 hen kan välja fritt bland alla kämpar i det attackerade skeppet. Om
@@ -330,8 +330,8 @@ striden kastar den aktive spelaren en runa. Bågskyttar räknas som
 alltså endast en runa att kasta. Ledare bidrar med två runor var
 (oavsett vapentyp).
 
-Runan 'th' räknas som träff, precis som i avståndsstrid så stoppas den
-första 'th'-runan av en *sköldmur*. Runan 'o' / Oden ger en skada på
+Runan ᚦ räknas som träff, precis som i avståndsstrid så stoppas den
+första 'ᚦ'-runan av en *sköldmur*. Runan 'ᛟ' / Oden ger en skada på
 både anfallaren och försvararen (denna skada går ej att undvika
 förutom via vissa kort).
 
