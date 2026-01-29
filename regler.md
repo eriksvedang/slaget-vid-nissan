@@ -53,9 +53,7 @@ vapen som var mycket vanliga under vikingatiden:
 - Spjutmän (spjut)
 - Bågskyttar (pilbåge)
 
-Kämpar med svärd, yxor och spjut bär sköldar. Alla typer av kämpar
-(även ledare och bågskyttar) kan ta rollen som styrman genom att
-ställas längst bak i ett skepp, precis bredvid styråran. De kämpar som
+Kämpar med svärd, yxor och spjut bär sköldar. De kämpar som
 inte har pilbåge kan delta i avståndsstrid genom att kasta sten.
 
 På varje sida finns även tre namngivna ledare; en kung och två
@@ -132,7 +130,7 @@ följande begränsningar:
   (mellanstora) skepp.
 - Danerna ska ha dubbelt så många skepp som norrmännen, de använder
   sig av ett kungaskepp och resten danska (små) skepp.
-- Varje skepp ska vara fyllt med kämpar, inklusive en styrman var.
+- Varje skepp ska vara fyllt med kämpar.
 - Alla ledare (tre per lag) måste alltid vara med i spelet och de
   måste alltid starta på olika skepp.
 - Kungarna måste starta på de största skeppen.
@@ -236,9 +234,8 @@ slänga ett eller flera kort och passa sin tur (se steg 1).
 
 #### a) Förflyttning av skepp
 Ett skepp kan flyttas om det:
- 1. Har en styrman (kämpe placerad vid styråran)
- 2. Inte innehåller fiendekämpar
- 3. Inte redan har flyttat den här turen.
+  1. Inte innehåller fiendekämpar
+  2. Inte redan har flyttat den här turen.
 
 Varje skepp kan alltså bara att ro/flytta en gång per aktivering, men
 detta kan utföras antinget före, efter eller mitt emellan övriga
@@ -451,7 +448,7 @@ Spelet tar slut direkt om något av följande händer:
 
 <hr>
 
-# Spelarhjälp
+# Kortfattad Spelarhjälp
 
 ## Rundans struktur
 1. Spela ett kort ELLER släng valfritt antal kort
