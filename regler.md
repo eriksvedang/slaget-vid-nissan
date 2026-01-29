@@ -19,11 +19,16 @@ Spelet spelas på en modell över en del av Laholmsbukten, ungefär från
 Nissans mynning till nuvarande Örnäsudden (Halmstad). Spelplanen är
 150 x 220 cm stor.
 
-### Tidsmätare
-Om inte spelet tar slut i förväg (t ex när en spelares kung dör i
-strid) så avslutas partiet efter ett förutbestämt antal turer. Detta
-sköts via en tidsmätare som ska uppdateras varje gång den danske
-spelaren ska till att göra sitt drag (dock ej första draget).
+De delar av planen som är täckta av vatten men är inom 30 cm från land
+räknas som *grunt vatten*, vilket refereras på vissa kort i spelet. I
+övrigt har grunt vatten ingen effekt på spelet och skepp kan röra sig
+fritt där.
+
+<!-- ### Tidsmätare -->
+<!-- Om inte spelet tar slut i förväg (t ex när en spelares kung dör i -->
+<!-- strid) så avslutas partiet efter ett förutbestämt antal turer. Detta -->
+<!-- sköts via en tidsmätare som ska uppdateras varje gång den danske -->
+<!-- spelaren ska till att göra sitt drag (dock ej första draget). -->
 
 ### Skepp
 Det finns tre olika storlekar på skepp i spelet:
@@ -68,6 +73,14 @@ Daner:
 - Sven Estridsson (svärd)
 - Finn Arnesson (spjut)
 - Skjalm Tokesson (yxa)
+
+Varje sida har även en kämpe med ett horn, en *hornblåsare*. Dessa ska
+med fördel placeras på samma skepp som ledarna, för de hjälper ledarna
+att ge order till andra skepp (se *Aktivering*).
+
+Slutligen har båda sidorna varsin *standardbärare* (de bär en
+flagga). Dessa räknas som spjutmän i strid men är värda mer vinstpoäng
+för motståndaren om de stupar.
 
 Under spelets gång kommer många av kämparna att stupa. De ställs då
 bredvid spelplanen och hålls åtskillda så att det är enkelt att se hur
@@ -147,12 +160,7 @@ kort på handen:
 
 ## Spelordning
 Danerna börjar. Spelarna turas därefter om att utföra en komplett tur,
-tills dess att någon vinner eller att var och en har utfört ett visst
-antal turer:
-
-Storlek I:    8 turer
-Storlek II:   9 turer
-Storlek III: 10 turer
+tills dess att någon vinner (se *Spelets slut*).
 
 En spelartur består av följande handlingar:
 
@@ -178,10 +186,11 @@ mönstrad ikon), eller så är det neutralt (svart ikon).
 
 Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
 ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
-de vänligt sinnade skepp som är inom hörhåll (20 cm, räknat från skepp
-till skepp). Det går dock INTE att aktivera sina andra ledares skepp på
-detta vis, en ledare kan inte beordra vad en annan ledare ska göra
-(inte ens kungen).
+de vänligt sinnade skepp som är inom *hörhåll* (20 cm räknat från
+skepp till skepp, 30 cm om det finns en hornblåsare ombord). Det går
+dock INTE att aktivera sina andra ledares skepp på detta vis, en
+ledare kan inte beordra vad en annan ledare ska göra (inte ens
+kungen).
 
 Neutrala kort (med svart ikon) kan aktivera alla skepp, oavsett var de
 befinner sig, även ledarnas skepp.
@@ -194,6 +203,9 @@ Exempel: Ett kort med Hårdrådes ikon och en 2:a kan aktivera Hårdrådes
 skepp och ett till skepp som är inom hörhåll. Alternativt skulle
 kortet kunna aktivera två skepp inom hörhåll från Hårdrådes skepp (men
 då aktiveras ej Hårdrådes skepp).
+
+Om flera ledare befinner sig på samma skepp så kan kort associerade
+med var och en av dessa ledare aktivera detta skepp.
 
 Den aktive spelaren väljer först ut och markerar tydligt vilka skepp
 som hen aktiverar den här turen. Spelaren utför sedan följande
@@ -244,19 +256,19 @@ Ett skepp kan flyttas om det:
 Istället för att slåss kan en kämpe knyta ihop skeppet han befinner
 sig på med ett annat skepp.
 
-Ihopbundna skepp som tillhör samma lag räknas som en enhet och
-kämparna ombord kan anfalla som en grupp.
+Ett skepp som är ihopbundet med andra skepp från samma lag (sida vid
+sida, midskeppen där de är som bredast ska röra vid varandra) har
+några fördelar:
 
-Vid avståndsstrid så tar ihopbundna skepp skada som om de var ett
-skepp och kan alltså välja fritt bland alla kämpar ombord vilka som
-ska dö.
+- *Sköldmur* kräver endast tre kämpar för att bildas
+- Vid avståndsattacker från ett sådant skepp kastar anfallaren en extra runa
+
+Flera av spelarnas kort blir också mer effektiva i de fall då
+aktiverade skepp är sammanbundna.
 
 Det är möjligt att binda ihop skepp som tillhör olika lag, inget av
 dem kan då flyttas utan att en kämpe ombord först spenderar en
 handling på att hugga loss skeppet han befinner sig på.
-
-Flera kort blir också mer effektiva i de fall då aktiverade skepp är
-sammanbundna.
 
 #### c) Avståndsstrid
 Kämpar som inte deltagit i rodd eller sammanbindning av skepp kan
@@ -267,89 +279,137 @@ samma aktivering).
 Följande begränsningar gäller för avståndsstrid:
 - Bågskyttar når 30 cm (mät från skepp till skepp).
 - Stenkastning når 10 cm (mät från skepp till skepp).
-- Alla kämpar som deltar i avståndsstrid under en aktivering måste
-  anfalla samma skepp. Det innebär att om ett skepp som befinner sig
-  mer än 10 cm bort ska attackeras, så kan endast bågskyttar delta i
-  striden.
-- Det går inte att använda avståndsstrid mot fiendekämpar som befinner
-  sig på samma skepp.
+- Varje fiendeskepp kan bara attackeras en gång per aktivering. Det
+  går alltså att dela upp så att ett antal bågskyttar attackerar skepp
+  A, några andra bågskyttar attackerar skepp B, samt ett antal
+  närstridande kämpar kastar sten på skepp C. Efter dessa tre attacker
+  är det inte möjligt att anfalla varken A, B eller C i avståndsstrid
+  mer under den här aktiveringen.
 - Om det befinner sig fiendekämpar ombord på det aktiverade skeppet
-  kan dina kämpar ombord inte utföra avståndsstrid mot andra skepp
-  heller, de är för upptagna med närstriden.
-- Det går inte att attackera ett skepp som innehåller kämpar från sitt
-  eget lag.
+  kan dina kämpar ombord inte utföra avståndsstrid, varken mot andra
+  skepp eller sitt eget.
+- Det går inte att attackera ett annat skepp som innehåller kämpar
+  från spelarens eget lag.
 
-När den aktiva spelaren valt vilka kämpar som deltar i avståndsstriden
-så kastas en runa per sådan kämpe (pilbågsskytte och stenkastning är
-lika effektiva i detta avseende). Om en ledare deltar i avståndsstrid
-räknas den dubbelt och bidrar alltså med två runor till kastet.
+För varje avståndsattack kastar den aktiva spelaren en runa per kämpe
+som deltar i attacken (pilbågsskytte och stenkastning är lika
+effektiva i detta avseende). Om en ledare deltar i avståndsstrid
+räknas den dubbelt och bidrar alltså med två runor till kastet oavsett
+vapentyp. Är skeppet som attacken sker ifrån sammanbundet med ett
+annat vänligt skepp (endast midskepp mot midskepp) så får man lägga
+till en extra runa till kastet (pga stabilitet).
 
 Runan ᚦ räknas som träff, Odens runa ('ᛟ') har ingen effekt i
-avståndsstrid.
+avståndsstrid. Dubbleringsrunan 'ᛞ' fungerar som vanligt (kasta två
+till runor).
 
-Om det attackerade skeppet har en *sköldmur* (minst hälften av
-kämparna bär sköld) så ignoreras den första 'ᚦ'-runan.
+Efter varje avståndsattack läggs runorna tillbaka i påsen, och
+eventuell ny avståndsattack utförs därefter.
 
-Den attackerade spelaren måste ta bort en fallen kämpe per träff-runa,
-hen kan välja fritt bland alla kämpar i det attackerade skeppet. Om
-det träffade skeppet är sammanbundet med andra skepp så är det även
-tillåtet att ta skada genom att låta kämpar på dessa skepp falla
-istället.
+##### Sköldmur
+Ett attackerat skepp har en *sköldmur* om följande är uppfyllt:
+- Minst fem av kämparna på skeppet bär sköld (tre, om skeppet är
+  sammanbundet bredvid ett annat skepp från samma lag)
+- Inga kämpar från motståndarlaget befinner sig på ombord
 
-#### d) Förflyttning och närstrid
-Kämpar ombord på det aktiverade skeppet kan göra en förflyttning till
-ett intilligande skepp (de måste röra vid varandra), alternativt stanna
-kvar på sitt skepp. Förflyttning under en aktivering inbegriper alltid
-exakt två skepp, det är inte möjligt att flytta till eller från mer än
-ett skepp.
+Om ett skepp med sköldmur attackeras så ignoreras den första
+'ᚦ'-runan.
+
+Sköldmur har ingen betydelse när den tillhör anfallaren och har därför
+heller ingen effekt på 'ᛟ'-runan.
+
+##### Skada vid avståndsstrid
+Den aktive (attackerande) får dräpa en kämpe på det attackerade
+skeppet per träff-runa, men måste välja ledare i sista hand.
+
+#### d) Närstrid och förflyttning
+Det går till att börja med att inleda en (och endast en) närstrid på
+det aktiverade skeppet, om det finns fiendekämpar där. Detta betyder
+att ett antal av aktiv spelares kämpar på skeppet ej flyttas och
+istället slåss ombord på sitt skepp. Observera att endast dessa kämpar
+ingår i striden (endast de kan skadas, och eventuella övriga kämpar i
+samma lag ombord kan göra förflyttningar till andra intilliggande
+skepp, om striden lyckades).
+
+Om det aktiva skeppet nu inte har några fiendekämpar ombord så kan
+förflyttningar och attacker till intilliggande skepp utföras. Kämpar
+ombord på det aktiverade skeppet som inte redan utfört en handling kan
+delta i förflyttningar till intilliggande skepp (skeppen måste röra
+vid varandra), alternativt stanna kvar på sitt skepp (de kommer då
+inte att utföra någon handling denna tur).
 
 Det är aldrig nödvändigt att mäta distans när en kämpe rör sig ombord
-på skepp, begränsningen är istället att en förflyttning aldrig kan
-inbegripa mer än två skepp -- kämpen kan alltså göra max ett "hopp"
-mellan två skepp. Det är endast möjligt att flytta sig ("hoppa")
-mellan två skepp om de rör vid varandra.
+på eller mellan skepp, begränsningen är istället att en förflyttning
+aldrig kan inbegripa mer än två skepp -- kämpen kan alltså göra max
+ett "hopp" mellan två skepp. Det är endast möjligt att flytta sig
+("hoppa") mellan två skepp om de rör vid varandra.
 
-Det går inte heller att blockera varandra ombord på skeppen, en eller
-flera kämpar kan alltid flytta till angränsande skepp oavsett om någon
-fiende är "ivägen".
+Det är tillåtet att dela upp kämparna i flera grupper som flyttar till
+olika skepp. Det är dock inte möjligt att göra flera förflyttningar
+till samma skepp, varje förflyttning till ett annat skepp sker i grupp
+och sedan är det skeppet ej ett legalt mål för fler förflyttningar
+under nuvarande aktivering.
+
+Exempel: Skepp A aktiveras, det vidrör skepp B och C. Tre kämpar från
+skepp A flyttar till B. Sedan flyttar två kämpar från A till
+C. Nu är det inte möjligt att flytta fler kämpar från A till varken B
+eller C under den här aktiveringen.
 
 ##### Närstrid
-En förflyttning som börjar eller slutar på ett skepp som innehåller
-fiendekämpar leder till närstrid. Alla kämpar som flyttar, eventuella
-vänliga kämpar på skeppet man flyttar till, samt fiendekämpar på båda
-skeppen, räknas in i striden och kan ta skada. I alla dessa fall så
-flyttas inte kämparna förrän **efter** närstriden har utförts.
+En förflyttning som slutar på ett skepp som innehåller fiendekämpar
+leder till närstrid. Alla kämpar som flyttar, plus eventuella vänliga
+kämpar på skeppet som de flyttar till, samt fiendekämpar på
+mål-skeppet, räknas in i striden och kan ta skada.
 
-Det går även att inleda en närstrid på det aktiverade skeppet, om det
-redan finns fiendekämpar där. Detta betyder att inga kämpar flyttas
-och endast kämparna ombord på det aktiverade skeppet ingår i striden.
+Vid närstrid som en effekt av förflyttning så flyttas inte kämparna
+förrän **efter** närstriden har utförts (antalet som kan flyttas beror
+på hur mycket plats som finns ombord efter att kämparna har fallit).
+
+Kort som påverkar strid (t ex lägger till runor) är aktiva i varje
+strid som initieras under spelarens tur, om inget annat anges på
+kortet.
+
+Exempel: Kortet "Korpen Flyger" ger två extra 'ᛟ' (Oden-runor) i
+närstrid. Skepp A delar upp sina kämpar och anfaller både skepp B och
+skepp C. I båda dessa strider kommer minst två kämpar från varje sida
+att falla, pga de två säkra Oden-runorna på kortet.
 
 För varje anfallande kämpe med svärd, yxa eller spjut som ingår i
-striden kastar den aktive spelaren en runa. Bågskyttar räknas som
-1/2 runa (avrundat nedåt) för detta ändamål, t ex tre bågskyttar ger
-alltså endast en runa att kasta. Ledare bidrar med två runor var
-(oavsett vapentyp).
+striden kastar den aktive spelaren en runa. Bågskyttar bidrar endast
+med en halv runa (avrundat nedåt) för detta ändamål, t ex ger tre
+bågskyttar alltså endast en runa att kasta. Ledare bidrar med två
+runor var (oavsett vapentyp).
 
 Runan ᚦ räknas som träff, precis som i avståndsstrid så stoppas den
-första 'ᚦ'-runan av en *sköldmur*. Runan 'ᛟ' / Oden ger en skada på
-både anfallaren och försvararen (denna skada går ej att undvika
-förutom via vissa kort).
+första 'ᚦ'-runan av en *sköldmur*.
 
-När kämpar dör så är det spelaren som tar skada som bestämmer vilken
-kämpe som faller, men kämpar på det skepp där förflyttningen började
-måste väljas i första hand. Anfallaren visar först vilka hen väljer i
-situationer där det spelar roll.
+##### Skada vid närstrid
+Precis som vid avståndsstrid så är det spelaren som *ger* skada som
+bestämmer vilken kämpe som faller, med begränsningen att ledare måste
+väljas i sista hand.
 
-Efter att skada har delats ut, om försvararen förlorade kämpar, så kan
-anfallaren flytta in sina kämpar på den anfallna båten. Det största
-antalet kämpar som kan flyttas är alla de som ingick i anfallet, de
-trupper som inte kastade runor blir alltid kvar. Ett skepp kan aldrig
-innehålla fler kämpar än sin maxgräns (dvs antalet kämpar som det
-startade med).
+Varje 'ᛟ' (Odens runa) i kastet ger en skada på både anfallarens och
+försvararens trupp. Även i detta fall är det anfallaren som väljer
+vilka som dräps, och återigen måste ledare väljas sist. Denna skada
+går ej att undvika, förutom via vissa kort. Endast kämpar som var med
+i striden kan bli skadade av Odens runa, detta är relevant då aktiv
+spelare startar en strid med endast en del av sina kämpar på det
+aktiverade skeppet, med avsikt att flytta resterande kämpar till andra
+intilliggande skepp.
 
-Exempel: Den danske spelaren anfaller normännen med fem kämpar mot ett
-fullsatt skepp. Tre norrmän och en dansk dör i striden, nu kan tre
-av de fyra kvarvarande danskarna flytta över till det norska skeppet.
+Efter att skada har delats ut, så måste anfallaren flytta in några av
+sina överlevande kämpar på den anfallna båten. Minst en kämpe måste
+flyttas, och det största antalet kämpar som kan flyttas är alla de som
+ingick i anfallet (och inte dog pga Odens runa). De kämpar som inte
+deltog i striden (t ex för att de hade rott tidigare i turen) blir
+alltid kvar (de kan utföra en förflyttning till ett annat skepp). Ett
+skepp kan aldrig innehålla fler kämpar än sin maxgräns (dvs antalet
+kämpar som det startade med).
+
+Exempel: Den danske spelaren anfaller norrmännen med fem kämpar mot
+ett fullsatt skepp. Tre norrmän och en dansk dör i striden, nu kan en
+till tre av de fyra kvarvarande danskarna flytta över till det norska
+skeppet.
 
 ### 3. Dra kort
 Det spelade kortet ska nu läggas i en slänghög bredvid spelarens
@@ -361,20 +421,57 @@ början av partiet). Om kortleken skulle få slut på kort så är spelet
 slut och går till poängräkning (se nedan).
 
 ## Spelets slut
-Spelet tar slut
- 1. Om någon av kungarna dör (spelaren förlorar då omedelbart)
- 2. En av spelarna inte kan dra kort från sin lek för att den är tom
- 3. När båda spelarna har spelat ett visst antal turer var
+Spelet tar slut direkt om något av följande händer:
+ 1. En av kungarna dör. Spelaren förlorar då omedelbart och vinstpoäng
+    har ingen betydelse. Om båda kungarna dör i samma strid vinner försvararen.
+ 2. En spelare når upp till 30 eller mer vinstpoäng, hen vinner då med
+    en gång. Om båda spelarna når upp till denna gräns samtidigt (t ex
+    efter en strid) så vinner den som har mest poäng. Om spelarna har
+    exakt samma poäng fortsätter spelet tills någon tar ledningen
+    eller vinner på annat vis.
+ 3. En spelare inte kan dra kort till sin hand för att deras
+    draghög är tom. Spelet går då till poängräkning. Om båda spelarna
+    då har samma poäng blir det oavgjort.
 
-I fall 2 och 3 går spelet vidare till poängräkning:
-
-### Poängräkning
-Om en spelare vunnit genom att döda motståndarens kung så räknas inte
-poäng. Om båda spelarna har sina kungar kvar så räknar de poäng för
-de här sakerna:
-
-- Varje sjunket eller övertaget motståndarskepp: 10 poäng
+### Vinstpoäng
+- Varje övertaget motståndarskepp (måste ha en kämpe ombord): 5 poäng
 - Varje dödad fiendeledare: 10 poäng
+- Varje dödad fientlig standardbärare: 10 poäng
 - Varje dödad fiendekämpe: 1 poäng
 
-Spelaren med mest poäng vinner. Vid exakt samma poäng så är partiet oavgjort.
+<hr>
+
+# Spelarhjälp
+
+## Rundans struktur
+1. Spela ett kort ELLER släng valfritt antal kort
+2. Aktivera skepp (markera dessa)
+3. Varje aktiverat skepp utför följande i ordning:
+   a) Rodd (5 cm / roddare). Roddare kan inte flytta/strida.
+   b) Fastknytning (egna eller fiendens).
+   c) Avståndsstrid, kan attackera flera mål. 'ᛟ' har ingen effekt.
+      Om skeppet är sammanbundet med vänligt skepp, kasta en extra
+      runa i varje avståndsattack.
+   d) Närstrid och förflyttning med de som inte handlat redan.
+      Först EN strid på aktiverade skeppet, sedan (om skeppet inte har
+      fiender längre) kan man anfalla intilliggande skepp.
+      Anfallarens kämpar som redan är ombord på ett attackerat skepp
+      deltar automatiskt i striden.
+4. Dra kort tills du har en full hand igen.
+
+## Strid
+I båda typerna av strid kan varje fiendeskepp endast attackeras en gång
+per aktivering.
+
+I all strid ger ᚦ en skada på den som är attackerad.
+Vid närstrid ger ᛟ en skada på båda sidorna i striden, kan ej
+blockeras.
+
+Anfallaren väljer vilka kämpar som ska falla, måste välja ledare sist.
+
+## Sköldmur
+- Fem sköldar eller mer blockerar första 'ᚦ'-runan (träff) när skeppet
+blir anfallet (både avstånds- och närstrid).
+- Om skeppet är sammanbundet med ett annat vänligt skepp räcker det med tre
+sköldar.
+- En sköldmur fungerar inte om det finns fiendekämpar ombord.
