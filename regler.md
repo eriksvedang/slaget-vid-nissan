@@ -78,9 +78,9 @@ Varje sida har även en kämpe med ett horn, en *hornblåsare*. Dessa ska
 med fördel placeras på samma skepp som ledarna, för de hjälper ledarna
 att ge order till andra skepp (se *Aktivering*).
 
-Slutligen har båda sidorna varsin *standardbärare* (de bär en
-flagga). Dessa räknas som spjutmän i strid men är värda mer vinstpoäng
-för motståndaren om de stupar.
+Slutligen har båda sidorna varsin *fanbärare* (deras modeller bär på
+en flagga var). Dessa räknas som spjutmän i strid men är värda mer
+vinstpoäng för motståndaren om de stupar.
 
 Under spelets gång kommer många av kämparna att stupa. De ställs då
 bredvid spelplanen och hålls åtskillda så att det är enkelt att se hur
@@ -167,7 +167,9 @@ En spelartur består av följande handlingar:
 1. Spela ett kort från handen
 2. Aktivera ett eller flera skepp (beroende på spelat kort), plus de
    kämpar som befinner sig ombord.
-3. Dra kort så att spelaren återigen har fullt antal kort på handen.
+3. Utför handlingar med kämparna ombord på aktiverade skepp, ett skepp
+   i taget.
+4. Dra kort så att spelaren återigen har fullt antal kort på handen.
 
 ### 1. Spela kort
 Spelaren kan spela vilket kort som helst från handen, även om de har
@@ -180,20 +182,24 @@ sedan gå direkt till steg 3. I detta fall får inga skepp aktiveras och
 spelaren passar effektivt sin tur för att försöka förbättra korten på
 hand.
 
-### 2. Aktivering
+### 2. Aktivering av skepp
 Varje kort hör till en av ledarna i spelarens lag (färgglad och
 mönstrad ikon), eller så är det neutralt (svart ikon).
 
 Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
 ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
 de vänligt sinnade skepp som är inom *hörhåll* (20 cm räknat från
-skepp till skepp, 30 cm om det finns en hornblåsare ombord). Det går
-dock INTE att aktivera sina andra ledares skepp på detta vis, en
+skepp till skepp, 30 cm om det finns en hornblåsare ombord).
+
+Det går **inte** att aktivera sina andra ledares skepp på detta vis, en
 ledare kan inte beordra vad en annan ledare ska göra (inte ens
 kungen).
 
+Undantag: Om flera ledare befinner sig på samma skepp så kan kort associerade
+med var och en av dessa ledare aktivera detta skepp (och de inom hörhåll).
+
 Neutrala kort (med svart ikon) kan aktivera alla skepp, oavsett var de
-befinner sig, även ledarnas skepp.
+befinner sig på spelplanen, även ledarnas skepp.
 
 Ett kort kan aktivera upp till så många skepp som siffran under ikonen
 i hörnet visar. Om kortet istället har en prick så kan kortet endast
@@ -204,23 +210,21 @@ skepp och ett till skepp som är inom hörhåll. Alternativt skulle
 kortet kunna aktivera två skepp inom hörhåll från Hårdrådes skepp (men
 då aktiveras ej Hårdrådes skepp).
 
-Om flera ledare befinner sig på samma skepp så kan kort associerade
-med var och en av dessa ledare aktivera detta skepp.
-
 Den aktive spelaren väljer först ut och markerar tydligt vilka skepp
 som hen aktiverar den här turen. Spelaren utför sedan följande
-handlingar för ett skepp i taget:
+handlingar för ett skepp i taget, i valfri ordning:
 
 <pre>
  a) Förflyttning av skepp
- b) Sammanbindning
+ b) Sammanbindning / losstagning av skepp
  c) Avståndsstrid
- d) Förflyttning/anfall med kämpar
+ d) Förflyttning / närstrid med kämpar
 </pre>
 
 Grundprincipen är att varje kämpe ombord på ett aktiverat skepp kan
 utföra en handling, t ex ro, skjuta pilbåge, eller äntra ett
-fiendeskepp.
+fiendeskepp. Förflyttning och närstrid är tätt sammankopplade och
+räknas därför som en handling i det här avseendet.
 
 När alla aktiverade skepp har utfört sina handlingar är steg 2 slut
 och spelaren går till steg 3 för att fylla på sin hand med kort.
@@ -234,25 +238,29 @@ slänga ett eller flera kort och passa sin tur (se steg 1).
 Ett skepp kan flyttas om det:
  1. Har en styrman (kämpe placerad vid styråran)
  2. Inte innehåller fiendekämpar
+ 3. Inte redan har flyttat den här turen.
 
- Spelaren väljer hur många av kämparna ombord som ska spendera sin
- handling på att ro. I första hand måste styrmannen väljas (det är
- fritt fram att byta styrman i detta steg). Med andra ord måste
- styrmannen vara med och ro om skeppet ska flyttas (det är dock
- tillåtet att inte flytta alls, styrmannen kan då göra annat under
- aktiveringen). Varje kämpe som hjälper till att ro bidrar med 5 cm
- till förflyttningen av skeppet. Mät från spetsen på fören och till
- den punkt på spelplanen ditt skeppet ska ta sig.
+Varje skepp kan alltså bara att ro/flytta en gång per aktivering, men
+detta kan utföras antinget före, efter eller mitt emellan övriga
+handlingar.
 
- Styrman och övriga kämpar som rott skeppet har förbrukat sin
- handling för den här aktiveringen och kan ej utföra andra handlingar.
+Spelaren väljer hur många av kämparna ombord som ska spendera sin
+handling på att ro. I första hand måste styrmannen väljas (det är
+fritt fram att byta styrman i detta steg). Med andra ord måste
+styrmannen vara med och ro om skeppet ska flyttas (det är dock
+tillåtet att inte flytta alls, styrmannen kan då göra annat under
+aktiveringen). Varje kämpe som hjälper till att ro bidrar med 5 cm
+till förflyttningen av skeppet. Mät från spetsen på fören och till
+den punkt på spelplanen ditt skeppet ska ta sig.
 
- Ett skepp som är sammanbundet med ett annat skepp (se nedan) kan inte
- flyttas utan att först *huggas loss*, detta kräver en handling från
- någon kämpe ombord. Denna kämpe kan inte delta i någon annan handling
- under resten av aktiveringen.
+Styrman och övriga kämpar som rott skeppet har förbrukat sin
+handling för den här aktiveringen och kan ej utföra andra handlingar.
 
-#### b) Sammanbindning
+Ett skepp som är sammanbundet med ett annat skepp (se nedan) kan inte
+flyttas utan att först *huggas loss*, detta kräver en handling från
+någon kämpe ombord.
+
+#### b) Sammanbindning / hugga isär
 Istället för att slåss kan en kämpe knyta ihop skeppet han befinner
 sig på med ett annat skepp.
 
@@ -260,7 +268,7 @@ Ett skepp som är ihopbundet med andra skepp från samma lag (sida vid
 sida, midskeppen där de är som bredast ska röra vid varandra) har
 några fördelar:
 
-- *Sköldmur* kräver endast tre kämpar för att bildas
+- En *sköldmur* kräver endast tre kämpar för att kunna bildas ombord
 - Vid avståndsattacker från ett sådant skepp kastar anfallaren en extra runa
 
 Flera av spelarnas kort blir också mer effektiva i de fall då
@@ -307,10 +315,10 @@ Efter varje avståndsattack läggs runorna tillbaka i påsen, och
 eventuell ny avståndsattack utförs därefter.
 
 ##### Sköldmur
-Ett attackerat skepp har en *sköldmur* om följande är uppfyllt:
+Ett attackerat skepp bildar automatiskt en *sköldmur* om följande är uppfyllt:
 - Minst fem av kämparna på skeppet bär sköld (tre, om skeppet är
   sammanbundet bredvid ett annat skepp från samma lag)
-- Inga kämpar från motståndarlaget befinner sig på ombord
+<!-- - Inga kämpar från motståndarlaget befinner sig på ombord -->
 
 Om ett skepp med sköldmur attackeras så ignoreras den första
 'ᚦ'-runan.
@@ -320,7 +328,8 @@ heller ingen effekt på 'ᛟ'-runan.
 
 ##### Skada vid avståndsstrid
 Den aktive (attackerande) får dräpa en kämpe på det attackerade
-skeppet per träff-runa, men måste välja ledare i sista hand.
+skeppet per träff-runa, men måste välja kämpar värda mindre poäng i
+första hand (och kungen allra sist).
 
 #### d) Närstrid och förflyttning
 Det går till att börja med att inleda en (och endast en) närstrid på
@@ -434,10 +443,11 @@ Spelet tar slut direkt om något av följande händer:
     då har samma poäng blir det oavgjort.
 
 ### Vinstpoäng
-- Varje övertaget motståndarskepp (måste ha en kämpe ombord): 5 poäng
-- Varje dödad fiendeledare: 10 poäng
-- Varje dödad fientlig standardbärare: 10 poäng
-- Varje dödad fiendekämpe: 1 poäng
+- Varje övertaget motståndarskepp utöver det antal skepp som spelaren
+  började med: 5p
+- Varje stupad fiendeledare: 15 poäng
+- Varje stupad fientlig fanbärare: 5 poäng
+- Varje stupad fiendekämpe: 1 poäng
 
 <hr>
 
@@ -446,17 +456,19 @@ Spelet tar slut direkt om något av följande händer:
 ## Rundans struktur
 1. Spela ett kort ELLER släng valfritt antal kort
 2. Aktivera skepp (markera dessa)
-3. Varje aktiverat skepp utför följande i ordning:
-   a) Rodd (5 cm / roddare). Roddare kan inte flytta/strida.
-   b) Fastknytning (egna eller fiendens).
-   c) Avståndsstrid, kan attackera flera mål. 'ᛟ' har ingen effekt.
+3. Varje aktiverat skepp sedan låta sina kämpar utföra följande
+   handlingar i valfri ordning:
+   a) Rodd (5 cm / roddare). Roddare kan inte flytta/strida. Endast en
+      förflyttning per aktivering är möjlig för varje skepp, rodden
+      kan alltså ej delas upp i flera delar. Skepp med fiender ombord kan ej flytta.
+   b) Fastknytning och losstagning (egna ELLER fiendens skepp).
+   c) Avståndsstrid, kan attackera flera olika mål. 'ᛟ' har ingen effekt.
       Om skeppet är sammanbundet med vänligt skepp, kasta en extra
       runa i varje avståndsattack.
-   d) Närstrid och förflyttning med de som inte handlat redan.
-      Först EN strid på aktiverade skeppet, sedan (om skeppet inte har
-      fiender längre) kan man anfalla intilliggande skepp.
-      Anfallarens kämpar som redan är ombord på ett attackerat skepp
-      deltar automatiskt i striden.
+   d) Närstrid/förflyttning. Först EN strid på aktiverade skeppet,
+      sedan (om skeppet inte har fiender längre) kan man anfalla
+      intilliggande skepp. Anfallarens kämpar som redan är ombord på
+      ett attackerat skepp deltar automatiskt i striden.
 4. Dra kort tills du har en full hand igen.
 
 ## Strid
@@ -467,7 +479,8 @@ I all strid ger ᚦ en skada på den som är attackerad.
 Vid närstrid ger ᛟ en skada på båda sidorna i striden, kan ej
 blockeras.
 
-Anfallaren väljer vilka kämpar som ska falla, måste välja ledare sist.
+Anfallaren väljer vilka kämpar som ska falla, måste välja kämpar värda
+mindre vinstpoäng i första hand.
 
 ## Sköldmur
 - Fem sköldar eller mer blockerar första 'ᚦ'-runan (träff) när skeppet
