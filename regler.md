@@ -455,14 +455,14 @@ Spelet tar slut direkt om något av följande händer:
 2. Aktivera skepp (markera dessa)
 3. Varje aktiverat skepp sedan låta sina kämpar utföra följande
    handlingar i valfri ordning:
-   a) Rodd (5 cm / roddare). Roddare kan inte flytta/strida. Endast en
+   - a) Rodd (5 cm / roddare). Roddare kan inte flytta/strida. Endast en
       förflyttning per aktivering är möjlig för varje skepp, rodden
       kan alltså ej delas upp i flera delar. Skepp med fiender ombord kan ej flytta.
-   b) Fastknytning och losstagning (egna ELLER fiendens skepp).
-   c) Avståndsstrid, kan attackera flera olika mål. 'ᛟ' har ingen effekt.
+   - b) Fastknytning och losstagning (egna ELLER fiendens skepp).
+   - c) Avståndsstrid, kan attackera flera olika mål. 'ᛟ' har ingen effekt.
       Om skeppet är sammanbundet med vänligt skepp, kasta en extra
       runa i varje avståndsattack.
-   d) Närstrid/förflyttning. Först EN strid på aktiverade skeppet,
+   - d) Närstrid/förflyttning. Först EN strid på aktiverade skeppet,
       sedan (om skeppet inte har fiender längre) kan man anfalla
       intilliggande skepp. Anfallarens kämpar som redan är ombord på
       ett attackerat skepp deltar automatiskt i striden.
