@@ -144,9 +144,9 @@ Exempel:
 Beroende på hur många skepp som används så ska spelarna ha olika antal
 kort på handen:
 
-* Storlek I   (3 norska skepp):   3 kort var
-* Storlek II  (4-6 norska skepp): 4 kort var
-* Storlek III (7+ norska skepp):  5 kort var
+* Storlek I   (3 norska skepp):   4 kort var
+* Storlek II  (4-6 norska skepp): 5 kort var
+* Storlek III (7+ norska skepp):  6 kort var
 
 ## Förberedelser
 1. Norrmännen placerar sina skepp innerst i viken och placerar sina
