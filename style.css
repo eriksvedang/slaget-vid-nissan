@@ -1,10 +1,11 @@
 body {
     font-family: 'IM Fell English', 'Georgia', serif;
     background: #abc;
+
     background-image: url("img/jumping_viking_square.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-position: bottom;
 }
 
