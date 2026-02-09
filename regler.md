@@ -304,7 +304,7 @@ Följande begränsningar gäller för avståndsstrid:
   kan dina kämpar ombord inte utföra avståndsstrid, varken mot andra
   skepp eller sitt eget.
 - Det går inte att attackera ett annat skepp som innehåller kämpar
-  från spelarens eget lag.
+  från spelarens eget lag ("no friendly fire").
 - Ett skepp som attackerats i avståndsstrid kan inte heller bli
   attackerat i närstrid senare under samma aktivering.
 
