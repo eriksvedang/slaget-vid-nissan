@@ -21,7 +21,7 @@ Nissans mynning till nuvarande Örnäsudden (Halmstad). Spelplanen är
 
 De delar av planen som är täckta av vatten men är inom 30 cm från land
 räknas som *grunt vatten*, vilket påverkar reglerna kring
-*kungaflykt*. I övrigt har grunt vatten ingen effekt på spelet och
+*konungaflykt*. I övrigt har grunt vatten ingen effekt på spelet och
 skepp kan röra sig fritt där.
 
 ### Skepp
@@ -464,8 +464,6 @@ land, både med avståndsstrid och närstrid (skeppet måste i detta fall
 nudda kungens figur). Vid varje anfall mot en ensam kung så ignorerar
 han första träffen (som vid sköldmur). En ensam kung kan själv inte
 utföra några attacker.
-
-Andra typer av kämpar kan inte lämna sina skepp.
 
 ### 3. Dra kort
 Det spelade kortet ska nu läggas i en slänghög bredvid spelarens
