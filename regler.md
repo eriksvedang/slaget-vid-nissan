@@ -255,8 +255,7 @@ Ett skepp kan även flyttas bakåt eller i sidled men varje roddare
 bidrar då bara med 2 cm till förflyttningen.
 
 Ett skepp som är sammanbundet med ett annat skepp (se nedan) kan inte
-flyttas utan att först *huggas loss*; detta kräver en handling från
-någon kämpe ombord.
+flyttas utan att först *huggas loss*.
 
 #### b) Sammanbindning / hugga loss
 Istället för att slåss kan en kämpe knyta ihop skeppet han befinner
@@ -276,8 +275,13 @@ Flera av spelarnas kort blir också mer effektiva i de fall då
 aktiverade skepp är sammanbundna.
 
 Det är möjligt att binda ihop skepp som tillhör olika lag, inget av
-dem kan då flyttas utan att en kämpe ombord först spenderar en
-handling på att hugga loss skeppet han befinner sig på.
+dem kan då flyttas utan först huggs loss.
+
+För att hugga loss ett skepp måste en eller flera kämpar ombord först
+spenderar sin handling på att hugga loss skeppet de befinner sig
+på. De kastar en runa per kämpe, vid minst en träff så har skeppet
+huggits loss och sammanbindningsbrickan tas bort. Odenrunor räknas som
+miss.
 
 #### c) Avståndsstrid
 Kämpar kan spendera sin handling på att attackera motståndaren genom
