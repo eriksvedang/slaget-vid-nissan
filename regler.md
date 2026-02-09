@@ -220,6 +220,7 @@ valfri ordning:
  b) Sammanbindning / losstagning av skepp
  c) Avståndsstrid
  d) Förflyttning / närstrid med kämpar
+ e) Konungaflykt
 </pre>
 
 Grundprincipen är att varje kämpe ombord på ett aktiverat skepp kan
@@ -434,6 +435,34 @@ ett fullsatt skepp. Tre norrmän och en dansk dör i striden, nu måste
 tre av de fyra kvarvarande danskarna flytta över till det norska
 skeppet.
 
+#### e) Konungaflykt
+Spelarens kung har ytterligare en möjlig handling vid aktivering; han
+kan hoppa ur sitt skepp och bli en *ensam kung*. Han placeras då inom
+5 cm från skeppet han hoppade av ifrån. Handlingen kan endast utföras
+om kungen kan ställas på grunt vatten (30 cm från land) eller fastland.
+
+Så länge kungen är ensam kan han aktiveras som vanligt (med kort som
+har hans ikon, eller neutrala kort). Han kan dock inte ge order till
+andra skepp för att aktivera dem. Den enda möjliga handlingen vid
+aktivering av en ensam kung är att *simma* eller *springa*, vilket
+flyttar kungen upp till 10 cm (i vatten) och 20 cm (på land) per
+aktivering. Han drar aldrig nytta av kort som påverkar skeppens
+förflyttning (t ex "Snabb Rodd").
+
+Lyckas den danske kungen att ta sig fram till bonden Karl i Söndrums
+gård (mätt fram till dörren på stugan) så är han säker och kan ej
+längre ta skada. Det går även att hoppa upp i ett vänligt sinnat skepp
+om förflyttningen räcker ända fram till relingen. En ensam kung kan
+inte borda skepp som innehåller fiendekämpar.
+
+Det går att anfalla en fiendekung som befinner sig i vattnet eller på
+land, både med avståndsstrid och närstrid (skeppet måste i detta fall
+nudda kungens figur). Vid varje anfall mot en ensam kung så ignorerar
+han första träffen (som vid sköldmur). En ensam kung kan själv inte
+utföra några attacker.
+
+Andra typer av kämpar kan inte lämna sina skepp.
+
 ### 3. Dra kort
 Det spelade kortet ska nu läggas i en slänghög bredvid spelarens
 draghög.
@@ -468,31 +497,3 @@ Spelet tar slut direkt om något av följande händer:
 <!-- Spelstorlek I:   40 VP -->
 <!-- Spelstorlek II:  50 VP -->
 <!-- Spelstorlek III: 60 VP -->
-
-### Konungaflykt
-Spelarens kung har ytterligare en möjlig handling vid aktivering; han
-kan hoppa ur sitt skepp och bli en *ensam kung*. Han placeras då inom
-5 cm från skeppet han hoppade av ifrån. Handlingen kan endast utföras
-om kungen kan ställas på grunt vatten (30 cm från land) eller fastland.
-
-Så länge kungen är ensam kan han aktiveras som vanligt (med kort som
-har hans ikon, eller neutrala kort). Han kan dock inte ge order till
-andra skepp för att aktivera dem. Den enda möjliga handlingen vid
-aktivering av en ensam kung är att *simma* eller *springa*, vilket
-flyttar kungen upp till 10 cm (i vatten) och 20 cm (på land) per
-aktivering. Han drar aldrig nytta av kort som påverkar skeppens
-förflyttning (t ex "Snabb Rodd").
-
-Lyckas den danske kungen att ta sig fram till bonden Karl i Söndrums
-gård (mätt fram till dörren på stugan) så är han säker och kan ej
-längre ta skada. Det går även att hoppa upp i ett vänligt sinnat skepp
-om förflyttningen räcker ända fram till relingen. En ensam kung kan
-inte borda skepp som innehåller fiendekämpar.
-
-Det går att anfalla en fiendekung som befinner sig i vattnet eller på
-land, både med avståndsstrid och närstrid (skeppet måste i detta fall
-nudda kungens figur). Vid varje anfall mot en ensam kung så ignorerar
-han första träffen (som vid sköldmur). En ensam kung kan själv inte
-utföra några attacker.
-
-Andra typer av kämpar kan inte lämna sina skepp.
