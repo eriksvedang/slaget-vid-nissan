@@ -61,14 +61,14 @@ Norrmän:
 - Håkon Jarl (yxa)
 - Eystein Orre (svärd)
 
-Daner:
+Danskar:
 - Sven Estridsson (svärd)
 - Finn Arnesson (spjut)
 - Skjalm Tokesson (yxa)
 
 Varje sida har även en kämpe med ett horn, en *hornblåsare*. Dessa ska
-med fördel placeras på samma skepp som ledarna, för de hjälper ledarna
-att ge order till andra skepp (se *Aktivering*).
+med fördel placeras på samma skepp som någon av ledarna, för de
+hjälper till att ge order till andra skepp (se *Aktivering*).
 
 Slutligen har båda sidorna varsin *fanbärare* (deras modeller bär på
 en flagga var). Dessa räknas som spjutmän i strid men är värda mer
@@ -76,15 +76,22 @@ vinstpoäng för motståndaren om de stupar.
 
 Under spelets gång kommer många av kämparna att stupa. De ställs då
 bredvid spelplanen och hålls åtskillda så att det är enkelt att se hur
-många kämpar som varje sida har förlorat.
+många kämpar som varje sida har förlorat. När kämpar faller i strid
+och det finns flera att välja på så måste de tas uppifrån och ner,
+enligt följande rangordning:
+
+#### Rangordning
+1. Vanliga kämpar
+2. Hornblåsare
+3. Fanbärare
+4. Ledare som inte är kungen
+5. Kungen
 
 ### Distans
 Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
 aktivering, förflyttning och avståndsstrid så sker detta från **skepp
-till skepp**. Det räcker alltså till exempel att de yttersta ändarna
-av två skepp är inom 10 cm från varandra för att de ska kunna
-attackera varandra med stenkastning, det är aldrig nödvändigt att mäta
-från en kämpe till en annan.
+till skepp** (från de delar av skeppen som är närmast varandra). Det
+är aldrig nödvändigt att mäta från en kämpe till en annan.
 
 ### Runor
 Spelet innehåller 16 st runbrickor i följande konfiguration:
@@ -108,9 +115,9 @@ kastet. De räknas som att de ingår i det initiala kastet och deras
 resultat kan ej ändras.
 
 ### Kort
-Varje lag (Norrmän / Daner) har en egen kortlek på X kort var. Korten
-är färgkodade med en ikon i det övre vänstra hörnet. Varje ikon är
-knuten till en av ledarna i spelet, eller till hela laget.
+Varje lag (Norrmän / Danskar) har en egen kortlek på 16 kort
+var. Korten är färgkodade med en ikon i det övre vänstra hörnet. Varje
+ikon är knuten till en av ledarna i spelet, eller till hela laget.
 
 Varje spelare drar och spelar kort från sin personliga lek. De slängs
 i en slänghög bredvid draghögen. Både drag- och slänghög ska hållas
@@ -123,7 +130,7 @@ följande begränsningar:
 
 - Norrmännen använder sig av ett kungaskepp och resten norska
   (mellanstora) skepp.
-- Danerna ska ha dubbelt så många skepp som norrmännen, de använder
+- Danskarna ska ha dubbelt så många skepp som norrmännen, de använder
   sig av ett kungaskepp och resten danska (små) skepp.
 - Varje skepp ska vara fyllt med kämpar.
 - Alla ledare (tre per lag) måste alltid vara med i spelet och de
@@ -131,7 +138,7 @@ följande begränsningar:
 - Kungarna måste starta på de största skeppen.
 
 Exempel:
-- Danerna har 6 skepp, 15 + 7 x 5 = total 50 st kämpar.
+- Danskarna har 6 skepp, 15 + 7 x 5 = total 50 st kämpar.
 - Norrmännen har 3 skepp, 15 + 10 x 2 = total 35 st kämpar.
 
 Beroende på hur många skepp som används så ska spelarna ha olika antal
@@ -145,7 +152,7 @@ kort på handen:
 1. Norrmännen placerar sina skepp innerst i viken (aldrig längre ut än
    linjen från Nissans mynning till spetsen på Örnäsudden) och
    placerar sina kämpar ombord.
-2. Danerna placerar sina skepp på den andra halvan av spelplanen, vart
+2. Danskarna placerar sina skepp på den andra halvan av spelplanen, vart
    och ett minst 50 cm från de norska skeppen.
 3. Varje spelare går igenom sin kortlek och tar ut de kort som är
    markerade att användas för slagets storlek (I-III)
@@ -153,7 +160,7 @@ kort på handen:
    kort till handen (se ovan för korrekt antal).
 
 ## Spelordning
-Danerna börjar. Spelarna turas därefter om att utföra en komplett tur,
+Danskarna börjar. Spelarna turas därefter om att utföra en komplett tur,
 tills dess att någon vinner (se *Spelets slut*).
 
 En spelartur består av följande handlingar:
@@ -165,7 +172,7 @@ En spelartur består av följande handlingar:
 4. Dra kort så att spelaren återigen har fullt antal kort på handen.
 
 ### 1. Spela kort
-Spelaren kan spela vilket kort som helst från handen, även om de har
+Spelaren kan spela vilket kort som helst från handen, även om det har
 begränsad eller ingen effekt. Läs kortets titel och regeltext högt för
 motståndaren.
 
@@ -181,7 +188,8 @@ med aktiveringsvärde 1.
 
 ### 2. Aktivering av skepp
 Varje kort hör till en av ledarna i spelarens lag (färgglad och
-mönstrad ikon), eller så är det neutralt (svart ikon).
+mönstrad ikon), eller så är det neutralt (svart ikon med ett 'N' eller
+'D').
 
 Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
 ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
@@ -195,17 +203,17 @@ befinner sig på spelplanen, även ledarnas skepp.
 Ett kort kan aktivera upp till så många skepp som siffran under ikonen
 i hörnet visar (*aktiveringsvärde*). Om kortet istället har en prick
 så kan kortet endast aktivera exakt det skepp där ledaren befinner
-sig.
+sig. Varje skepp kan endast aktiveras en gång per tur.
 
 Exempel: Ett kort med Hårdrådes ikon och aktiveringsvärde 2 kan
 aktivera Hårdrådes skepp och ett till skepp som är inom
 hörhåll. Alternativt skulle kortet kunna aktivera två skepp inom
 hörhåll från Hårdrådes skepp (men då aktiveras ej Hårdrådes skepp).
 
-Den aktive spelaren väljer först ut och markerar tydligt vilka skepp
-som hen aktiverar den här turen. Spelaren utför sedan följande
-handlingar med hjälp av kämparna ombord ett skepp i taget, i valfri
-ordning:
+Den aktive spelaren väljer först ut och markerar tydligt vilket eller
+vilka skepp som hen aktiverar den här turen. Spelaren utför sedan
+följande handlingar med hjälp av kämparna ombord ett skepp i taget, i
+valfri ordning:
 
 <pre>
  a) Förflyttning av skepp
@@ -230,7 +238,7 @@ och spelaren går till steg 3 för att fylla på sin hand med kort.
 #### a) Förflyttning av skepp
 Ett skepp kan flyttas om det:
   1. Inte innehåller fiendekämpar
-  2. Inte redan har flyttat den här turen.
+  2. Inte redan har flyttat den här aktiveringen.
   3. Inte är sammanbundet med något annat skepp.
 
 Varje skepp kan alltså bara att ro/flytta en gång per aktivering, men
@@ -249,7 +257,7 @@ Ett skepp som är sammanbundet med ett annat skepp (se nedan) kan inte
 flyttas utan att först *huggas loss*; detta kräver en handling från
 någon kämpe ombord.
 
-#### b) Sammanbindning / hugga isär
+#### b) Sammanbindning / hugga loss
 Istället för att slåss kan en kämpe knyta ihop skeppet han befinner
 sig på med ett annat skepp (placera då en sammanbindningsbricka mellan
 dem), eller ta bort en sådan sammanbindning. Båda dessa handlingar kan
@@ -279,7 +287,7 @@ Följande begränsningar gäller för avståndsstrid:
 - Stenkastning når 10 cm (mätt från skepp till skepp).
 - Det måste gå att dra en linje i vattennivå, från skeppet som
   attackerar till dess mål (skeppen kan "se varandra"). Denna linje
-  får inte krocka med något skepp, oavsett tillhörighet.
+  får inte krocka med land eller något annat skepp (oavsett tillhörighet).
 - Varje fiendeskepp kan bara attackeras en gång per aktivering. Det
   går alltså att dela upp så att ett antal bågskyttar attackerar skepp
   A, några andra bågskyttar attackerar skepp B, samt ett antal
@@ -299,9 +307,9 @@ För varje avståndsattack kastar den aktiva spelaren en runa per kämpe
 som deltar i attacken (pilbågsskytte och stenkastning är lika
 effektiva i detta avseende). Om en ledare deltar i avståndsstrid
 räknas den dubbelt och bidrar alltså med två runor till kastet oavsett
-vapentyp. Är skeppet som attacken sker ifrån sammanbundet med ett
-annat vänligt skepp (endast midskepp mot midskepp) så får man lägga
-till en extra runa till kastet (pga stabilitet).
+vapentyp. Är skeppet som avståndsattacken sker ifrån sammanbundet med
+ett annat vänligt skepp (endast midskepp mot midskepp) så får man
+lägga till en extra runa till kastet (pga stabilitet).
 
 Runan ᚦ räknas som träff, Odens runa ('ᛟ') har ingen effekt i
 avståndsstrid.
@@ -309,8 +317,7 @@ avståndsstrid.
 <!-- Dubbleringsrunan 'ᛞ' fungerar som vanligt (kasta två -->
 <!-- till runor). -->
 
-Efter varje avståndsattack läggs runorna tillbaka i påsen, och
-eventuell ny avståndsattack utförs därefter.
+Efter varje avståndsattack läggs runorna tillbaka i påsen.
 
 ##### Sköldmur
 Ett attackerat skepp bildar automatiskt en *sköldmur* om minst fem av
@@ -325,13 +332,8 @@ heller ingen effekt på 'ᛟ'-runan.
 
 ##### Skada vid avståndsstrid
 Den aktive (attackerande) får dräpa en kämpe på det attackerade
-skeppet per träff-runa, men måste välja kämpar i följande ordning:
-
-1. Vanliga kämpar
-2. Hornblåsare
-3. Fanbärare
-4. Ledare som inte är kungen
-5. Kungen
+skeppet per träff-runa, men måste välja kämpar enligt *rangordningen*
+(se avsnittet om *kämpar*).
 
 #### d) Närstrid och förflyttning
 Kämpar ombord på det aktiverade skeppet som inte redan utfört en
@@ -412,12 +414,11 @@ tidigare.
 
 Varje 'ᛟ' (Odens runa) i kastet ger en skada på både anfallarens och
 försvararen. Även i detta fall är det anfallaren som väljer vilka som
-dräps, i samma rangordning som tidigare nämnts. Denna skada går ej att
-undvika, förutom via vissa kort. Endast kämpar som var med i striden
-kan bli skadade av Odens runa, detta är relevant då aktiv spelare
-startar en strid med endast en del av sina kämpar på det aktiverade
-skeppet, med avsikt att flytta resterande kämpar till andra
-intilliggande skepp.
+dräps, enligt *rangordningen*. Denna skada går ej att undvika, förutom
+via vissa kort. Endast kämpar som var med i striden kan bli skadade av
+Odens runa, detta är relevant då aktiv spelare startar en strid med
+endast en del av sina kämpar på det aktiverade skeppet, med avsikt att
+flytta resterande kämpar till andra intilliggande skepp.
 
 Efter att skada har delats ut, så måste anfallaren flytta in så många
 som möjligt av sina överlevande kämpar på den anfallna båten.Det
@@ -503,8 +504,8 @@ I all strid ger ᚦ en skada på den som är attackerad.
 Vid närstrid ger ᛟ en skada på båda sidorna i striden, kan ej
 blockeras.
 
-Anfallaren väljer vilka kämpar som ska falla, måste välja ledare efter
-rangordning.
+Anfallaren väljer vilka kämpar som ska falla, måste välja kämpar
+utefter *rangordningen*.
 
 ## Sköldmur
 - Fem sköldar eller mer blockerar första 'ᚦ'-runan (träff) när skeppet
