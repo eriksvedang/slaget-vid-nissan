@@ -6,9 +6,13 @@
     margin: auto;
     padding: 0.1em 2em 2em 2em;
     font-size: 1.3em;
-    margin-top: 500px;
+    /* margin-top: 500px; */
 }
 
 h1 {
     font-size: 2.0em;
+}
+
+.topspace {
+    height:calc(100vh - 190px);
 }

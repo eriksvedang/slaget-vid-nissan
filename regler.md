@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: page
 ---
 
 # SLAGET VID NISSAN - REGELBOK
@@ -11,6 +11,12 @@ augusti, år 1062. Striden stod mellan 300 danska skepp och 150 norska,
 precis utanför där staden Halmstad ligger idag. I verkligheten vann
 norrmännen och jagade danskarna på flykt, men vad händer när du tar
 kommandot istället?
+
+## Spelarantal
+Grundspelet som beskrivs här fungerar för två spelare, en som spelar
+Danskarna och en som spelar Norrmännen.
+
+För 3-8 spelare, se [Lagspel](./lagspel.md).
 
 ## Grundläggande koncept
 
@@ -86,6 +92,11 @@ rangordning:
 3. Fanbärare
 4. Ledare som inte är kungen
 5. Kungen
+
+#### Extra ledare
+Varje sida har varsin extra ledare med tillhörande kort. Dessa är
+avsedda för lagspel och både deras pjäs och kort ska plockas bort
+vid spel 1 mot 1.
 
 ### Distans
 Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
