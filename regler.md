@@ -4,6 +4,8 @@ layout: page
 
 # SLAGET VID NISSAN - REGELBOK
 
+[Kortfattad Spelarhjälp](spelarhjalp.html)
+
 ## Intro
 Slaget vid Nissan är ett brädspel som försöker återspegla en historisk
 händelse &mdash; ett vikingaslag som utspelade sig en sommarnatt i
