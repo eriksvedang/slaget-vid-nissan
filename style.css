@@ -17,6 +17,7 @@ body:after{
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+      background-attachment:scroll
 }
 
 h1 {
