@@ -3,6 +3,7 @@ body {
     background: #071831;
 }
 
+/* Via https://stackoverflow.com/questions/24154666/background-size-cover-not-working-on-ios */
 body:after{
       content:"";
       position:fixed; /* stretch a fixed position to the whole screen */
