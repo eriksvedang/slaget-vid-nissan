@@ -16,7 +16,7 @@ kommandot istället?
 Grundspelet som beskrivs här fungerar för två spelare, en som spelar
 Danskarna och en som spelar Norrmännen.
 
-För 3-8 spelare, se [Lagspel](./lagspel.md).
+För 3-8 spelare, se [Lagspel](lagspel.html).
 
 ## Grundläggande koncept
 

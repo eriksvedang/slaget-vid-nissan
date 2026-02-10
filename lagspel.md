@@ -5,7 +5,7 @@ layout: page
 # LAGSPEL
 
 Slaget vid Nissan kan spelas av mer än två spelare; de delas då upp i
-två lag. Spelet följer alla de grundläggande [reglerna](./regler.md),
+två lag. Spelet följer alla de grundläggande [reglerna](regler.html),
 med följande skillnader.
 
 ## Laguppdelning
