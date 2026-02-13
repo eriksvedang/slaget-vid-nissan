@@ -27,10 +27,10 @@ Spelet spelas på en modell över en del av Laholmsbukten, ungefär från
 Nissans mynning till nuvarande Örnäsudden (Halmstad). Spelplanen är
 160 x 110 cm stor.
 
-De delar av planen som är täckta av vatten men är inom 30 cm från land
-räknas som *grunt vatten*, vilket påverkar reglerna kring
-*konungaflykt*. I övrigt har grunt vatten ingen effekt på spelet och
-skepp kan röra sig fritt där.
+De delar av planen som är täckta av vatten men är inom 20 cm från
+fastland (ej öar) räknas som *grunt vatten*, vilket påverkar reglerna
+kring *konungaflykt*. I övrigt har grunt vatten ingen effekt på spelet
+och skepp kan röra sig fritt där.
 
 ### Skepp
 Det finns tre olika storlekar på skepp i spelet:
@@ -46,9 +46,13 @@ Ett skepp kontrolleras av den spelare som ensam har kämpar ombord. Om
 fiender bordar skeppet kommer det inte att kunna förflytta sig förrän
 anfallarna jagats på flykten eller dödats.
 
+Skepp kan även bindas ihop, både med fiendeskepp och ens egna skepp. I
+båda fallen kan ihopbundna skepp ej flyttas utan att sammanbindningen
+först tas bort.
+
 ### Kämpar
 Figurerna i spelet representerar olika sorters soldater som alla bär
-vapen som var mycket vanliga under vikingatiden:
+vapen som var vanliga under vikingatiden:
 
 - Svärdsmän (svärd)
 - Yxmän (yxa)
@@ -58,11 +62,12 @@ vapen som var mycket vanliga under vikingatiden:
 Kämpar med svärd, yxor och spjut bär sköldar. De kämpar som
 inte har pilbåge kan delta i avståndsstrid genom att kasta sten.
 
+Norrmännens kämpar har mörkare baser än danskarna.
+
 På varje sida finns även tre namngivna ledare; en kung och två
-hjältar. Ledare är de som ger order i striden och är därför mycket
-viktiga för att kunna manövrera skeppen och kämparna i spelet. De är
-även utomordentliga krigare och räknas därför dubbelt när de
-attackerar.
+hjältar. Ledare är de som ger order i striden och är därför viktiga
+för att kunna manövrera skeppen och kämparna i spelet. De är även
+utomordentliga krigare och räknas därför dubbelt när de attackerar.
 
 Norrmän:
 - Harald Hårdråde (pilbåge)
@@ -73,6 +78,9 @@ Danskar:
 - Sven Estridsson (svärd)
 - Finn Arnesson (spjut)
 - Skjalm Tokesson (yxa)
+
+Ledarna har varsin färgkodad bas som är unik för just dem. Detta gör
+det lätt att se vilka kort som hör till varje ledare.
 
 Varje sida har även en kämpe med ett horn, en *hornblåsare*. Dessa ska
 med fördel placeras på samma skepp som någon av ledarna, för de
@@ -100,11 +108,18 @@ Varje sida har varsin extra ledare med tillhörande kort. Dessa är
 avsedda för lagspel och både deras pjäs och kort ska plockas bort
 vid spel 1 mot 1.
 
+Norrmännens extraledare är en völva som kan se in i framtiden, använda
+medicinalväxter, mm.
+
+Danskarnas extraledare är en sköldmö som fungerar som en fantom. Hon
+kan dyka upp lite var som helst under slaget. Kanske finns hon bara i
+kämparnas fantasi?
+
 ### Distans
-Mätning av avstånd i spelet sker i centimeter (cm).  Vid vid
-aktivering, förflyttning och avståndsstrid så sker detta från **skepp
-till skepp** (från de delar av skeppen som är närmast varandra). Det
-är aldrig nödvändigt att mäta från en kämpe till en annan.
+Mätning av avstånd i spelet sker i centimeter (cm). Vid aktivering,
+förflyttning och avståndsstrid så sker detta från **skepp till skepp**
+(från de delar av skeppen som är närmast varandra). Det är aldrig
+nödvändigt att mäta från en kämpe till en annan.
 
 ### Runor
 Spelet innehåller 16 st runbrickor i följande konfiguration:
@@ -116,8 +131,8 @@ Framsidor:
 
 På baksidan är alla runbrickor blanka, vilket representerar en miss.
 
-När runor ska kastas så dras ett antal från påsen och de kastas uppåt
-en bit, så att de faller okontrollerat ner på bordet.
+När runor ska kastas så dras ett antal från påsen och de ska kastas så
+att de faller okontrollerat ner på bordet.
 
 <!-- De runor som efter kastet visar ᛞ läggs bort, och för varje sådan runa -->
 <!-- dras och kastas ytterligare två runor från påsen. När inga fler ᛞ -->
@@ -128,17 +143,17 @@ kastet. De räknas som att de ingår i det initiala kastet och deras
 resultat kan ej ändras.
 
 ### Kort
-Varje lag (Norrmän / Danskar) har en egen kortlek på 16 kort
+Varje lag (Norrmän / Danskar) har en egen kortlek på 20 kort
 var. Korten är färgkodade med en ikon i det övre vänstra hörnet. Varje
 ikon är knuten till en av ledarna i spelet, eller till hela laget.
 
-Varje spelare drar och spelar kort från sin personliga lek. De slängs
-i en slänghög bredvid draghögen. Både drag- och slänghög ska hållas
-utanför eller i den yttersta kanten av spelbrädet, så att de inte
-förhindrar skeppens rörelse.
+Varje spelare drar och spelar kort från sin personliga lek. Efter
+användning slängs de i en slänghög bredvid draghögen. Både drag- och
+slänghög ska hållas utanför eller i den yttersta kanten av spelbrädet,
+så att de inte förhindrar skeppens rörelse.
 
 ### Asymmetri
-Spelet kan spelas med varierande mängd skepp och kämpar, dock med
+Spelet kan spelas med varierande mängd skepp och kämpar, med
 följande begränsningar:
 
 - Norrmännen använder sig av ett kungaskepp och resten norska
@@ -150,16 +165,12 @@ följande begränsningar:
   måste alltid starta på olika skepp.
 - Kungarna måste starta på de största skeppen.
 
-Exempel:
-- Danskarna har 6 skepp, 15 + 7 x 5 = total 50 st kämpar.
-- Norrmännen har 3 skepp, 15 + 10 x 2 = total 35 st kämpar.
+Spelet kan spelas i tre olika *storlekar* beorende på hur mycket tid
+spelarna har till godo för partiet:
 
-Beroende på hur många skepp som används så ska spelarna ha olika antal
-kort på handen:
-
-* Storlek I   (3 norska skepp):   4 kort var
-* Storlek II  (4-6 norska skepp): 5 kort var
-* Storlek III (7+ norska skepp):  6 kort var
+* Storlek I   (ca 45 min) Norrmännen har 3 skepp, danskarna har 6
+* Storlek II  (ca 60 min) Norrmännen har 5 skepp, danskarna har 10
+* Storlek III (ca 90 min) Norrmännen har 8 skepp, danskarna har 16
 
 ## Förberedelser
 1. Norrmännen placerar sina skepp innerst i viken (aldrig längre ut än
@@ -290,11 +301,14 @@ aktiverade skepp är sammanbundna.
 Det är möjligt att binda ihop skepp som tillhör olika lag, inget av
 dem kan då flyttas utan först huggs loss.
 
-För att hugga loss ett skepp måste en eller flera kämpar ombord först
-spenderar sin handling på att hugga loss skeppet de befinner sig
-på. De kastar en runa per kämpe, vid minst en träff så har skeppet
-huggits loss och sammanbindningsbrickan tas bort. Odenrunor räknas som
-miss.
+För att ta bort en sammanbindning som man själv har skapat krävs en
+handling med en kämpe, han lyckas automatiskt och knuten tas bort.
+
+För att hugga loss en sammanbindning som motståndaren skapat måste en
+eller flera kämpar ombord först spenderar sin handling på att hugga
+loss skeppet de befinner sig på. De kastar en runa per kämpe, vid
+minst en träff så har skeppet huggits loss och sammanbindningsbrickan
+tas bort. Odenrunor räknas som miss.
 
 #### c) Avståndsstrid
 Kämpar kan spendera sin handling på att attackera motståndaren genom
