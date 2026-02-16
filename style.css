@@ -114,7 +114,13 @@ img {
     height:calc(100vh - 145px);
 }
 
-.side-img {
+.side-img-left {
+    float: left;
+    width: 35%;
+    margin: 0.5em;
+}
+
+.side-img-right {
     float: right;
     width: 35%;
     margin: 0.5em;
