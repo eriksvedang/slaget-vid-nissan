@@ -43,8 +43,13 @@ blockeras.
 Anfallaren väljer vilka kämpar som ska falla, måste välja kämpar
 utefter *rangordningen*.
 
+## Skydd
+- Gäller endast vid avståndsstrid, om ytan mellan anfallaren och
+  försvararen inte är tom på skepp.
+- Blockerar en 'ᚦ'-runa.
+
 ## Sköldmur
-- Fem sköldar eller mer blockerar första 'ᚦ'-runan (träff) när skeppet
-blir anfallet (både avstånds- och närstrid).
+- Fem sköldar eller mer blockerar en 'ᚦ'-runa när skeppet blir
+anfallet (både avstånds- och närstrid).
 - Om skeppet är sammanbundet med ett annat vänligt skepp räcker det med tre
 sköldar.

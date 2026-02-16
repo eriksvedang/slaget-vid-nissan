@@ -347,13 +347,18 @@ avståndsstrid.
 
 Efter varje avståndsattack läggs runorna tillbaka i påsen.
 
+##### Skydd
+Om det inte är helt fri sikt från skeppet som anfaller till det
+attackerade skeppet (ytan mellan de två skeppen ska vara helt fri från
+andra skepp) så har försvararen *skydd* och får ignorera en 'ᚦ'-runa.
+
 ##### Sköldmur
 Ett attackerat skepp bildar automatiskt en *sköldmur* om minst fem av
 kämparna på skeppet bär sköld (tre, om skeppet är sammanbundet bredvid
 ett annat skepp från samma lag).
 
-Om ett skepp med sköldmur attackeras så ignoreras den första
-'ᚦ'-runan.
+Om ett skepp med sköldmur attackeras så ignoreras en 'ᚦ'-runa
+(tillsammans med *skydd* kan alltså två runor ignoreras).
 
 Sköldmur har ingen betydelse när den tillhör anfallaren och har därför
 heller ingen effekt på 'ᛟ'-runan.
