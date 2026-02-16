@@ -7,26 +7,29 @@ layout: page
 ## Rundans struktur
 1. Spela ett kort (kan alltid spelas som neutralt kort utan text som
    aktiverar ett skepp)
-2. Aktivera skepp (markera dessa)
+2. Aktivera skepp (markera dessa, går ej att ändra senare).
+   Skepp med ledare kan ropa 20 cm (med horn 30 cm).
 3. Varje aktiverat skepp sedan låta sina kämpar utföra följande
    handlingar i valfri ordning:
-   - a) Rodd (5 cm / roddare, 2 cm åt sidan och bakåt). Roddare kan
+   - a) Rodd (10 cm / roddarpar, 5 cm åt sidan och bakåt). Roddare kan
       inte flytta/strida. Endast en förflyttning per aktivering är
       möjlig för varje skepp, rodden kan alltså ej delas upp i flera
       delar. Skepp med fiender ombord kan ej flytta.
-   - b) Fastknytning och hugga loss (egna ELLER fiendens skepp).
-      För att hugga loss måste en grupp kämpar "anfalla"
-      sammanbindningen, minst en träffruna behövs för att ta bort den.
-   - c) Avståndsstrid, kan attackera flera olika mål. 'ᛟ' har ingen effekt.
-      Om skeppet är sammanbundet med vänligt skepp, kasta en extra
-      runa i varje avståndsattack.
+   - b) Fastknytning och hugga loss (egna ELLER fiendens skepp).  För
+      att hugga loss fientlig knut så måste en grupp kämpar "anfalla"
+      den, minst en träffruna behövs för att ta bort den. Egen knut
+      kan tas bort av en kämpes handling och lyckas alltid.
+   - c) Avståndsstrid (40 cm med båge, 10 cm med sten). Kan attackera
+      flera olika mål, ett i taget. 'ᛟ' har ingen effekt.  Om skeppet
+      är sammanbundet med vänligt skepp, kasta en extra runa i varje
+      avståndsattack.
    - d) Närstrid/förflyttning. Kan starta strid på aktiverade skeppet,
       och/eller anfalla intilliggande skepp. Anfallarens kämpar som
       redan är ombord på ett attackerat skepp kan också delta i
       striden. Varje handling kan utföras flera gånger (förutom rodd),
       dock aldrig med samma mål. Varje handling kan utföras med
       maximalt åtta kämpar.
-4. Dra kort tills du har en full hand igen.
+4. Dra kort tills du har en full hand (fem kort) igen.
 
 ## Strid
 I strid under kan varje fiendeskepp endast attackeras en gång per

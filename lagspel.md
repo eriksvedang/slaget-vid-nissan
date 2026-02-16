@@ -8,6 +8,11 @@ Slaget vid Nissan kan spelas av mer än två spelare; de delas då upp i
 två lag. Spelet följer alla de grundläggande [reglerna](regler.html),
 med följande skillnader:
 
+## Förändring av spelets slut
+I de varianter där alla spelare börjar med hela sin lek på hand så tar
+spelet slut då alla spelarna har spelat sina kort (istället för att
+spelet tar slut då någon inte kan dra kort ur sin lek).
+
 ## Laguppdelning & förberedelser
 
 ### Tre spelare

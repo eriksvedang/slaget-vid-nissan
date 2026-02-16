@@ -121,6 +121,9 @@ förflyttning och avståndsstrid så sker detta från **skepp till skepp**
 (från de delar av skeppen som är närmast varandra). Det är aldrig
 nödvändigt att mäta från en kämpe till en annan.
 
+Ibland används också mätenheten *basavstånd*, detta är diametern på en
+vanlig kämpes bas (ca 12 mm).
+
 ### Runor
 Spelet innehåller 16 st runbrickor i följande konfiguration:
 
@@ -152,34 +155,32 @@ användning slängs de i en slänghög bredvid draghögen. Både drag- och
 slänghög ska hållas utanför eller i den yttersta kanten av spelbrädet,
 så att de inte förhindrar skeppens rörelse.
 
-### Asymmetri
-Spelet kan spelas med varierande mängd skepp och kämpar, med
-följande begränsningar:
+### Spelstorlek
+Spelet kan spelas med varierande mängd skepp och kämpar:
+
+* Storlek I   (ca 45 min) Norrmännen har totalt 3 skepp, danskarna har 6.
+* Storlek II  (ca 60 min) Norrmännen har totalt 5 skepp, danskarna har 10.
+* Storlek III (ca 90 min) Norrmännen har totalt 8 skepp, danskarna har 16.
+
+De måste dessutom hålla sig inom följande begränsningar:
 
 - Norrmännen använder sig av ett kungaskepp och resten norska
   (mellanstora) skepp.
-- Danskarna ska ha dubbelt så många skepp som norrmännen, de använder
-  sig av ett kungaskepp och resten danska (små) skepp.
-- Varje skepp ska vara fyllt med kämpar.
+- Danskarna har alltid dubbelt så många skepp som norrmännen; de
+  använder sig av ett kungaskepp och resten danska (små) skepp.
+- Varje skepp ska vara fyllt med kämpar, se *Skepp*.
 - Alla ledare (tre per lag) måste alltid vara med i spelet och de
   måste alltid starta på olika skepp.
-- Kungarna måste starta på de största skeppen.
-
-Spelet kan spelas i tre olika *storlekar* beorende på hur mycket tid
-spelarna har till godo för partiet:
-
-* Storlek I   (ca 45 min) Norrmännen har 3 skepp, danskarna har 6
-* Storlek II  (ca 60 min) Norrmännen har 5 skepp, danskarna har 10
-* Storlek III (ca 90 min) Norrmännen har 8 skepp, danskarna har 16
+- Kungarna måste starta på kungaskeppen.
 
 ## Förberedelser
 1. Norrmännen placerar sina skepp innerst i viken (aldrig längre ut än
-   linjen från Nissans mynning till spetsen på Örnäsudden) och
+   linjen från mitten av Nissans mynning till spetsen på Örnäsudden) och
    placerar sina kämpar ombord.
 2. Danskarna placerar sina skepp på den andra halvan av spelplanen, vart
    och ett minst 50 cm från de norska skeppen.
 3. Varje spelare går igenom sin kortlek och tar ut de kort som är
-   markerade att användas för slagets storlek (I-III)
+   markerade att användas för spelets storlek (I-III).
 4. Spelarna blandar sina respektive kortlekar och drar sedan ett antal
    kort till handen (se ovan för korrekt antal).
 
@@ -200,26 +201,20 @@ Spelaren kan spela vilket kort som helst från handen, även om det har
 begränsad eller ingen effekt. Läs kortets titel och regeltext högt för
 motståndaren.
 
-Kort som tillhör en död ledare eller bara anses vara obrukbart i
-nuvarande situation kan spelas som ett neutralt kort utan regeltext,
-med aktiveringsvärde 1.
-
-<!-- Om spelaren anser att ett eller flera kort på hand är obrukbara för -->
-<!-- situationen, så är det tillåtet att istället slänga hela eller delar -->
-<!-- av sin hand och sedan gå direkt till steg 3. I detta fall får inga -->
-<!-- skepp aktiveras och spelaren passar effektivt sin tur för att försöka -->
-<!-- förbättra korten på hand. -->
+Kort som tillhör en död ledare eller anses vara obrukbart i nuvarande
+situation kan spelas som ett neutralt kort utan regeltext, med
+aktiveringsvärde 1.
 
 ### 2. Aktivering av skepp
 Varje kort hör till en av ledarna i spelarens lag (färgglad och
 mönstrad ikon), eller så är det neutralt (svart ikon med ett 'N' eller
-'D').
+'D' för "Norge" eller "Danmark").
 
 Kort som är knutna till en ledare (dvs har en färgglad och mönstrad
 ikon i hörnet) kan aktivera skeppet där den ledaren befinner sig, samt
-de vänligt sinnade skepp som är inom *hörhåll* (15 cm bort, räknat
+de vänligt sinnade skepp som är inom *hörhåll* (20 cm bort, räknat
 från skepp till skepp; 30 cm om det finns en hornblåsare
-ombord). Skepp måste inte kunna se varandra för att ge order.
+ombord). Skepp måste **inte** kunna se varandra för att ge order.
 
 Neutrala kort (med svart ikon) kan aktivera alla skepp, oavsett var de
 befinner sig på spelplanen, även ledarnas skepp.
@@ -271,12 +266,13 @@ detta kan utföras antinget före, efter eller mitt emellan övriga
 handlingar.
 
 Spelaren väljer hur många av kämparna ombord som ska spendera sin
-handling på att ro (max 8 st). Varje kämpe som hjälper till att ro
-bidrar med 5 cm till förflyttningen av skeppet. Mät från spetsen på
-fören och till den punkt på spelplanen ditt skeppet ska ta sig.
+handling på att ro (max 8 st). Kämparna måste väljas i par om två, och
+varje sådant par bidrar med 10 cm till förflyttningen av skeppet. Mät
+från spetsen på fören och till den punkt på spelplanen ditt skeppet
+ska ta sig.
 
-Ett skepp kan även flyttas bakåt eller i sidled men varje roddare
-bidrar då bara med 2 cm till förflyttningen.
+Ett skepp kan även flyttas bakåt eller i sidled men varje par av
+roddare bidrar då bara med 5 cm till förflyttningen.
 
 Ett skepp som är sammanbundet med ett annat skepp (se nedan) kan inte
 flyttas utan att först *huggas loss*.
@@ -295,11 +291,13 @@ några fördelar:
 - En *sköldmur* kräver endast tre kämpar för att kunna bildas ombord
 - Vid avståndsattacker från ett sådant skepp kastar anfallaren en extra runa
 
-Flera av spelarnas kort blir också mer effektiva i de fall då
+Några av spelarnas kort blir också mer effektiva i de fall då
 aktiverade skepp är sammanbundna.
 
 Det är möjligt att binda ihop skepp som tillhör olika lag, inget av
-dem kan då flyttas utan först huggs loss.
+dem kan då flyttas utan först huggs loss. En sådan sammanbindning kan
+göras även om skeppen inte ligger bredvid varandra, det räcker att de
+på något vis nuddar varandra vid en punkt.
 
 För att ta bort en sammanbindning som man själv har skapat krävs en
 handling med en kämpe, han lyckas automatiskt och knuten tas bort.
@@ -319,7 +317,8 @@ Följande begränsningar gäller för avståndsstrid:
 - Stenkastning når 10 cm (mätt från skepp till skepp).
 - Det måste gå att dra en linje i vattennivå, från skeppet som
   attackerar till dess mål (skeppen kan "se varandra"). Denna linje
-  får inte krocka med land eller något annat skepp (oavsett tillhörighet).
+  får inte krocka med något annat skepp (oavsett tillhörighet). Det
+  är dock möjligt att skjuta över sand.
 - Varje fiendeskepp kan bara attackeras en gång per aktivering. Det
   går alltså att dela upp så att ett antal bågskyttar attackerar skepp
   A, några andra bågskyttar attackerar skepp B, samt ett antal
@@ -346,9 +345,6 @@ lägga till en extra runa till kastet (pga stabilitet).
 Runan ᚦ räknas som träff, Odens runa ('ᛟ') har ingen effekt i
 avståndsstrid.
 
-<!-- Dubbleringsrunan 'ᛞ' fungerar som vanligt (kasta två -->
-<!-- till runor). -->
-
 Efter varje avståndsattack läggs runorna tillbaka i påsen.
 
 ##### Sköldmur
@@ -369,15 +365,16 @@ skeppet per träff-runa, men måste välja kämpar enligt *rangordningen*
 
 #### d) Närstrid och förflyttning
 Kämpar ombord på det aktiverade skeppet som inte redan utfört en
-handling kan delta i förflyttningar till intilliggande skepp (skeppen
-måste röra vid varandra), alternativt stanna kvar på sitt skepp och
-slåss (eller göra något annat).
+handling kan delta i förflyttningar till närliggande
+skepp. Alternativt kan kämpar stanna kvar på sitt skepp och slåss mot
+fiender där.
 
 Det är aldrig nödvändigt att mäta distans när en kämpe rör sig ombord
 på eller mellan skepp, begränsningen är istället att en förflyttning
 aldrig kan inbegripa mer än två skepp -- kämpen kan alltså göra max
 ett "hopp" mellan två skepp. Det är endast möjligt att flytta sig
-("hoppa") mellan två skepp om de rör vid varandra.
+("hoppa") mellan två skepp om de rör vid varandra eller är inom ett
+*basavstånd* från varandra.
 
 Det är tillåtet att dela upp kämparna i flera grupper som flyttar till
 olika skepp. Det är dock inte möjligt att göra flera förflyttningar
@@ -389,10 +386,17 @@ förflyttning med längd 0) går även det bara att utföra en gång per
 aktivering. Man kan alltså inte försöka attackera fiender ombord flera
 gånger med olika grupper.
 
-Exempel: Skepp A aktiveras, det vidrör skepp B och C. Tre kämpar från
+Exempel 1: Skepp A aktiveras, det vidrör skepp B och C. Tre kämpar från
 skepp A flyttar till B. Sedan flyttar två kämpar från A till
 C. Nu är det inte möjligt att flytta fler kämpar från A till varken B
 eller C under den här aktiveringen.
+
+Exempel 2: Ett norskt skepp aktiveras, de har 7 egna kämpar ombord och
+1 fiende. De vill anfalla ett intilliggande skepp och måste därför
+först slå ut fienden ombord. Norrmännen dedikerar tre kämpar till
+attacken, som misslyckas. De fyra oanvända kämparna kan nu inte
+anfalla det intilliggande skeppet och de får heller inte anfalla
+fienden ombord.
 
 Det **är** tillåtet att *fly* från ett skepp som innehåller fiender
 genom att helt enkelt flytta en grupp (1-8 kämpar) till ett
@@ -469,14 +473,15 @@ skeppet.
 #### e) Konungaflykt
 Spelarens kung har ytterligare en möjlig handling vid aktivering; han
 kan hoppa ur sitt skepp och bli en *ensam kung*. Han placeras då inom
-5 cm från skeppet han hoppade av ifrån. Handlingen kan endast utföras
-om kungen kan ställas på grunt vatten (30 cm från land) eller fastland.
+10 cm från skeppet han hoppade av ifrån. Handlingen kan endast utföras
+om kungen kan ställas på grunt vatten (inom 20 cm från land) eller
+direkt på fastland.
 
 Så länge kungen är ensam kan han aktiveras som vanligt (med kort som
 har hans ikon, eller neutrala kort). Han kan dock inte ge order till
 andra skepp för att aktivera dem. Den enda möjliga handlingen vid
 aktivering av en ensam kung är att *simma* eller *springa*, vilket
-flyttar kungen upp till 10 cm (i vatten) och 20 cm (på land) per
+flyttar kungen upp till 20 cm (i vatten och på land) per
 aktivering. Han drar aldrig nytta av kort som påverkar skeppens
 förflyttning (t ex "Snabb Rodd").
 
@@ -496,21 +501,14 @@ utföra några attacker.
 Det spelade kortet ska nu läggas i en slänghög bredvid spelarens
 draghög.
 
-Spelaren drar sedan kort från leken tills dess att hen har lika många
-som hen startade med (tre eller fyra, beroende på antalet skepp i
-början av partiet). Om en spelare försöker dra kort när deras lek har
-slut på kort så är spelet slut och går till poängräkning (se nedan).
+Spelaren drar sedan kort från leken tills dess att hen har fem kort på
+handen igen. Om en spelare försöker dra kort när deras lek har slut på
+kort så är spelet slut och går till poängräkning (se nedan).
 
 ## Spelets slut
 Spelet tar slut direkt om något av följande händer:
  1. En av kungarna dör. Spelaren förlorar då omedelbart och vinstpoäng
     har ingen betydelse. Om båda kungarna dör i samma strid vinner försvararen.
- <!-- 2. En spelare når upp till den förutbestämda gränsen (beroende på -->
- <!--    spelets storlek) vinstpoäng, eller mer. Hen vinner då med -->
- <!--    en gång. Om båda spelarna når upp till denna gräns samtidigt (t ex -->
- <!--    efter en strid) så vinner den som har mest poäng. Om spelarna har -->
- <!--    exakt samma poäng fortsätter spelet tills någon tar ledningen -->
- <!--    eller vinner på annat vis. -->
  2. En spelare inte kan dra kort till sin hand för att deras
     draghög är tom. Spelet går då till poängräkning. Om båda spelarna
     har samma poäng blir det oavgjort.
@@ -522,7 +520,3 @@ Spelet tar slut direkt om något av följande händer:
 - Varje stupad fientlig fanbärare: 5 poäng
 - Varje stupad fientlig hornblåsare: 3 poäng
 - Varje stupad fiendekämpe: 1 poäng
-
-<!-- Spelstorlek I:   40 VP -->
-<!-- Spelstorlek II:  50 VP -->
-<!-- Spelstorlek III: 60 VP -->
