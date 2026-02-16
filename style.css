@@ -113,3 +113,9 @@ img {
 .topspace {
     height:calc(100vh - 145px);
 }
+
+.side-img {
+    float: right;
+    width: 35%;
+    margin: 0.5em;
+}
