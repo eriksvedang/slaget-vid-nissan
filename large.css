@@ -14,3 +14,13 @@ h1 {
 .topspace {
     height:calc(100vh - 190px);
 }
+
+.kickstarter-badge img {
+    width: 120px;
+    display:block;
+    margin:0;
+    padding:0;
+    position:absolute;
+    top: 10px;
+    left: 600px;
+}

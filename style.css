@@ -162,3 +162,19 @@ img {
     margin-top: 0.0em;
     margin-bottom: 2.5em;
 }
+
+.kickstarter-badge {
+    position:relative;
+    height:0px;
+    width:100%;
+}
+
+.kickstarter-badge img {
+    width: 50px;
+    display:block;
+    margin:0;
+    padding:0;
+    position:absolute;
+    top: 5px;
+    /* left: 600px; */
+}
