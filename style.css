@@ -74,7 +74,7 @@ h4 {
 .subtitle {
     text-align: center;
     font-style: italic;
-    font-size: 0.8em;
+    font-size: 0.7em;
     margin-bottom: 14px;
 }
 
@@ -176,5 +176,5 @@ img {
     padding:0;
     position:absolute;
     top: 5px;
-    /* left: 600px; */
+    left: -8px;
 }
