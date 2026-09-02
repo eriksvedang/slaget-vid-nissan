@@ -135,7 +135,7 @@ img {
 }
 
 .menu {
-    padding: 4px 24px 4px 24px;
+    padding: 4px 4px 4px 4px;
     background: #AABBCC55;
     display: flex;
     justify-content: space-between;
@@ -144,7 +144,7 @@ img {
 
 .menu a {
     text-decoration: none;
-    font-size: 1em;
+    font-size: 0.9em;
     color: #479;
 }
 
