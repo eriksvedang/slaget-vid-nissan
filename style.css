@@ -119,12 +119,14 @@ img {
     float: left;
     width: 35%;
     margin: 0.5em;
+    margin-left: 0em;
 }
 
 .side-img-right {
     float: right;
     width: 35%;
     margin: 0.5em;
+    margin-right: 0em;
 }
 
 .center-img {
@@ -144,4 +146,19 @@ img {
     text-decoration: none;
     font-size: 1em;
     color: #479;
+}
+
+.kickstarter {
+    border: 1px;
+    background: #05ce7833;
+    padding: 1em;
+    border-radius: 20px;
+}
+
+.image-explanation {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+    margin-top: 0.0em;
+    margin-bottom: 2.5em;
 }
