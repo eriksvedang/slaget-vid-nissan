@@ -75,6 +75,7 @@ h4 {
     text-align: center;
     font-style: italic;
     font-size: 0.8em;
+    margin-bottom: 14px;
 }
 
 .attribution {
@@ -129,4 +130,18 @@ img {
 .center-img {
     width: 100%;
     margin: auto;
+}
+
+.menu {
+    padding: 4px 24px 4px 24px;
+    background: #AABBCC55;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 1em;
+    color: #479;
 }
